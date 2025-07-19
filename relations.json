@@ -1,0 +1,20 @@
+[
+  {
+    "person1": "General Petrenko",
+    "person2": "Officer Shevchenko",
+    "relation_type": "command",
+    "polarity": "neutral"
+  },
+  {
+    "person1": "Diplomat Ivanenko",
+    "person2": "Minister Melnyk",
+    "relation_type": "cooperation",
+    "polarity": "positive"
+  },
+  {
+    "person1": "Activist Bondar",
+    "person2": "Mayor Kovalenko",
+    "relation_type": "conflict",
+    "polarity": "negative"
+  }
+]
