@@ -1,6 +1,8 @@
 from pydantic import BaseModel, RootModel
 from enum import Enum
 from typing import List
+
+
 class RelationType(str, Enum):
     command = "command"
     conflict = "conflict"
