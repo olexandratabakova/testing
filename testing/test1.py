@@ -18,4 +18,4 @@ import json
 file_path = "../text_for_analysis/songs_TheBeatles.json"
 with open(file_path, "r", encoding="utf-8") as f:
     data = json.load(f)
-print(data['songs'][1]['lyrics'])
+print(data)

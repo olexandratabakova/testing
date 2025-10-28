@@ -1,0 +1,6733 @@
+[
+  {
+    "node1": "love",
+    "node2": "me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "heart"
+    ],
+    "typical_lexicon": [
+      "you",
+      "true",
+      "do"
+    ]
+  },
+  {
+    "node1": "I",
+    "node2": "love",
+    "relation_type": "context",
+    "topic_terms": [
+      "self",
+      "emotion",
+      "feeling"
+    ],
+    "typical_lexicon": [
+      "you",
+      "me",
+      "heart",
+      "be",
+      "true"
+    ]
+  },
+  {
+    "node1": "someone",
+    "node2": "to",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "friendship",
+      "partnership",
+      "help"
+    ],
+    "typical_lexicon": [
+      "love",
+      "new",
+      "you",
+      "like"
+    ]
+  },
+  {
+    "node1": "always",
+    "node2": "be",
+    "relation_type": "context",
+    "topic_terms": [
+      "constancy",
+      "commitment",
+      "stability"
+    ],
+    "typical_lexicon": [
+      "true",
+      "love",
+      "me",
+      "you"
+    ]
+  },
+  {
+    "node1": "Last night",
+    "node2": "girl",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "pleasing",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "words",
+      "try",
+      "always",
+      "way",
+      "know"
+    ]
+  },
+  {
+    "node1": "C'mon",
+    "node2": "please me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "pleasing",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "yeah",
+      "like",
+      "try",
+      "always",
+      "way"
+    ]
+  },
+  {
+    "node1": "You don't need me to show the way, love",
+    "node2": "Why do I always have to say 'love'",
+    "relation_type": "context",
+    "topic_terms": [
+      "love",
+      "pleasing",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "always",
+      "have",
+      "say",
+      "know",
+      "try"
+    ]
+  },
+  {
+    "node1": "I don't wanna sound complaining",
+    "node2": "But you know there's always rain in my heart (In my heart)",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "pleasing",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "complaining",
+      "heart",
+      "reason",
+      "make",
+      "blue"
+    ]
+  },
+  {
+    "node1": "Last night I said these words to my girl",
+    "node2": "I know you never even try, girl",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "pleasing",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "words",
+      "try",
+      "always",
+      "way",
+      "know"
+    ]
+  },
+  {
+    "node1": "Whoa yeah, like I please you",
+    "node2": "Last night I said these words to my girl",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "pleasing",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "words",
+      "try",
+      "always",
+      "way",
+      "know"
+    ]
+  },
+  {
+    "node1": "C'mon (C'mon)",
+    "node2": "Please please me, oh yeah",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "pleasing",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "yeah",
+      "like",
+      "try",
+      "always",
+      "way"
+    ]
+  },
+  {
+    "node1": "I got arms",
+    "node2": "to hold you",
+    "relation_type": "context",
+    "topic_terms": [
+      "love",
+      "care",
+      "support",
+      "emotional",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "true",
+      "long",
+      "hold",
+      "keep",
+      "side",
+      "satisfied",
+      "kiss"
+    ]
+  },
+  {
+    "node1": "I got lips",
+    "node2": "to kiss you",
+    "relation_type": "context",
+    "topic_terms": [
+      "love",
+      "care",
+      "support",
+      "emotional",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "true",
+      "long",
+      "hold",
+      "keep",
+      "side",
+      "satisfied"
+    ]
+  },
+  {
+    "node1": "Just call on me",
+    "node2": "and I'll send it along",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "help",
+      "support",
+      "emotional",
+      "assistance"
+    ],
+    "typical_lexicon": [
+      "if",
+      "there's",
+      "anything",
+      "want",
+      "do",
+      "with"
+    ]
+  },
+  {
+    "node1": "With love from me",
+    "node2": "to you",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "care",
+      "support",
+      "emotional",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "from",
+      "me",
+      "you",
+      "just",
+      "call"
+    ]
+  },
+  {
+    "node1": "If there's anything that you want",
+    "node2": "I got everything",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "care",
+      "support",
+      "emotional",
+      "assistance"
+    ],
+    "typical_lexicon": [
+      "anything",
+      "want",
+      "do",
+      "just",
+      "call"
+    ]
+  },
+  {
+    "node1": "If there's anything I can do",
+    "node2": "Just call on me and I'll send it along",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "help",
+      "support",
+      "emotional",
+      "assistance"
+    ],
+    "typical_lexicon": [
+      "if",
+      "there's",
+      "anything",
+      "want",
+      "do"
+    ]
+  },
+  {
+    "node1": "With love from me to you",
+    "node2": "From me, to you",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "care",
+      "support",
+      "emotional",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "from",
+      "me",
+      "to"
+    ]
+  },
+  {
+    "node1": "I got arms that long to hold you",
+    "node2": "And keep you satisfied",
+    "relation_type": "context",
+    "topic_terms": [
+      "love",
+      "care",
+      "support",
+      "emotional",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "true",
+      "long",
+      "hold",
+      "keep"
+    ]
+  },
+  {
+    "node1": "I got lips that long to kiss you",
+    "node2": "And keep you satisfied",
+    "relation_type": "context",
+    "topic_terms": [
+      "love",
+      "care",
+      "support",
+      "emotional",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "true",
+      "long",
+      "hold",
+      "keep"
+    ]
+  },
+  {
+    "node1": "If there's anything that you want",
+    "node2": "Just call on me and I'll send it along",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "help",
+      "support",
+      "emotional",
+      "assistance"
+    ],
+    "typical_lexicon": [
+      "if",
+      "there's",
+      "anything",
+      "want"
+    ]
+  },
+  {
+    "node1": "With love from me to you",
+    "node2": "Just call on me and I'll send it along",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "care",
+      "support",
+      "emotional",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "from",
+      "me",
+      "to"
+    ]
+  },
+  {
+    "node1": "ocean",
+    "node2": "sea",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "lies",
+      "over",
+      "my",
+      "Bonnie"
+    ],
+    "typical_lexicon": [
+      "lies",
+      "over",
+      "my",
+      "Bonnie"
+    ]
+  },
+  {
+    "node1": "Bonnie",
+    "node2": "me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "bring",
+      "back",
+      "to"
+    ],
+    "typical_lexicon": [
+      "bring",
+      "back",
+      "to",
+      "lies",
+      "over"
+    ]
+  },
+  {
+    "node1": "ocean",
+    "node2": "sea",
+    "relation_type": "context",
+    "topic_terms": [
+      "My",
+      "Bonnie",
+      "lies",
+      "over",
+      "my"
+    ],
+    "typical_lexicon": [
+      "lies",
+      "over",
+      "my",
+      "Bonnie",
+      "ocean"
+    ]
+  },
+  {
+    "node1": "bring",
+    "node2": "back",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "to",
+      "me",
+      "Bonnie"
+    ],
+    "typical_lexicon": [
+      "bring",
+      "back",
+      "to",
+      "me"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "you",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "heartbreak",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "hurt",
+      "mind",
+      "kind",
+      "fair",
+      "pride"
+    ]
+  },
+  {
+    "node1": "lost",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "heartbreak",
+      "sadness",
+      "pain"
+    ],
+    "typical_lexicon": [
+      "mind",
+      "kind",
+      "hurt",
+      "fair",
+      "pride"
+    ]
+  },
+  {
+    "node1": "hurt",
+    "node2": "you",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "injury",
+      "pain",
+      "heartbreak"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "mind",
+      "kind",
+      "fair"
+    ]
+  },
+  {
+    "node1": "apologize",
+    "node2": "her",
+    "relation_type": "context",
+    "topic_terms": [
+      "regret",
+      "remorse",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "hurt",
+      "you",
+      "fair"
+    ]
+  },
+  {
+    "node1": "yesterday",
+    "node2": "saw",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "past",
+      "memory",
+      "encounter"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "mind",
+      "you",
+      "kind"
+    ]
+  },
+  {
+    "node1": "glad",
+    "node2": "know",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "happiness",
+      "certainty",
+      "confidence"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "hurt",
+      "you",
+      "fair"
+    ]
+  },
+  {
+    "node1": "she",
+    "node2": "told",
+    "relation_type": "context",
+    "topic_terms": [
+      "communication",
+      "message",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "mind",
+      "kind",
+      "you"
+    ]
+  },
+  {
+    "node1": "bad",
+    "node2": "can't",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "negativity",
+      "impossibility",
+      "obstacle"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "hurt",
+      "you",
+      "fair"
+    ]
+  },
+  {
+    "node1": "mind",
+    "node2": "know",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "understanding",
+      "awareness",
+      "certainty"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "hurt",
+      "you",
+      "fair"
+    ]
+  },
+  {
+    "node1": "pride",
+    "node2": "hurt",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "pain",
+      "injury",
+      "ego"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "mind",
+      "you",
+      "kind"
+    ]
+  },
+  {
+    "node1": "fair",
+    "node2": "hurt",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "justice",
+      "injury",
+      "pain"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "mind",
+      "you",
+      "kind"
+    ]
+  },
+  {
+    "node1": "up",
+    "node2": "to",
+    "relation_type": "context",
+    "topic_terms": [
+      "responsibility",
+      "decision",
+      "choice"
+    ],
+    "typical_lexicon": [
+      "love",
+      "lost",
+      "hurt",
+      "you",
+      "fair"
+    ]
+  },
+  {
+    "node1": "something",
+    "node2": "hand",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "feelings",
+      "connection"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "touch",
+      "hold",
+      "be",
+      "man"
+    ]
+  },
+  {
+    "node1": "hand",
+    "node2": "you",
+    "relation_type": "context",
+    "topic_terms": [
+      "love",
+      "connection",
+      "romance"
+    ],
+    "typical_lexicon": [
+      "hold",
+      "be",
+      "man",
+      "say",
+      "please"
+    ]
+  },
+  {
+    "node1": "I",
+    "node2": "feel",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "happiness",
+      "love",
+      "joy"
+    ],
+    "typical_lexicon": [
+      "happy",
+      "inside",
+      "such",
+      "it's",
+      "my"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "let",
+    "relation_type": "context",
+    "topic_terms": [
+      "romance",
+      "connection",
+      "love"
+    ],
+    "typical_lexicon": [
+      "be",
+      "man",
+      "say",
+      "please",
+      "me"
+    ]
+  },
+  {
+    "node1": "touch",
+    "node2": "happy",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "happiness",
+      "love",
+      "joy"
+    ],
+    "typical_lexicon": [
+      "inside",
+      "such",
+      "it's",
+      "my",
+      "feel"
+    ]
+  },
+  {
+    "node1": "hide",
+    "node2": "can't",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "hiding",
+      "secrecy",
+      "denial"
+    ],
+    "typical_lexicon": [
+      "love",
+      "I",
+      "my",
+      "it's",
+      "such"
+    ]
+  },
+  {
+    "node1": "something",
+    "node2": "understand",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "connection",
+      "meaning",
+      "knowledge"
+    ],
+    "typical_lexicon": [
+      "think",
+      "when",
+      "say",
+      "I",
+      "you'll"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "diamond rings",
+      "heart",
+      "soulmate",
+      "riches",
+      "poverty"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "alright",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "happiness",
+      "contentment",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "happy",
+      "fulfilling",
+      "satisfying",
+      "pleased",
+      "cheerful"
+    ]
+  },
+  {
+    "node1": "money",
+    "node2": "alright",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "materialism",
+      "financial status",
+      "happiness"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "diamond rings",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "gift giving"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "treasure"
+    ]
+  },
+  {
+    "node1": "anything",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "sacrifice"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "soulmate",
+      "riches",
+      "poverty",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "money",
+    "node2": "everything",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "materialism",
+      "financial status",
+      "happiness"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "everything",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "sacrifice"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "soulmate",
+      "riches",
+      "poverty",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "me",
+      "I",
+      "heart",
+      "soulmate",
+      "happy"
+    ]
+  },
+  {
+    "node1": "I",
+    "node2": "money",
+    "relation_type": "context",
+    "topic_terms": [
+      "individualism",
+      "financial status",
+      "happiness"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "friend",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "me",
+      "heart",
+      "soulmate",
+      "happy",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "friend",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "materialism",
+      "financial status",
+      "happiness"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "heart",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "me",
+      "I",
+      "you",
+      "soulmate",
+      "happy"
+    ]
+  },
+  {
+    "node1": "everything",
+    "node2": "love",
+    "relation_type": "context",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "sacrifice"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "soulmate",
+      "riches",
+      "poverty",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "kind of things",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "intangible values"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "soulmate",
+      "riches",
+      "poverty",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "everything",
+    "node2": "money",
+    "relation_type": "context",
+    "topic_terms": [
+      "materialism",
+      "financial status",
+      "happiness"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "things that money can't buy",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "intangible values"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "soulmate",
+      "riches",
+      "poverty",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "everything",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "heart",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "love",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "treasure"
+    ]
+  },
+  {
+    "node1": "kind of things",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "treasure"
+    ]
+  },
+  {
+    "node1": "kind of things",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "heart",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "engagement ring",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "anniversary gift",
+      "soulmate",
+      "treasure",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "engagement ring",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "anniversary gift",
+      "soulmate",
+      "treasure",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "engagement ring",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "anniversary gift",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "diamond rings",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "anniversary gift",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "soulmate",
+      "treasure",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "anniversary gift",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "treasure",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "treasure",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "treasure",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "fulfilling",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "happy",
+      "soulmate",
+      "me",
+      "I"
+    ]
+  },
+  {
+    "node1": "fulfilling",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "love"
+    ]
+  },
+  {
+    "node1": "fulfilling",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "soulmate",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "happy",
+      "me",
+      "I",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "soulmate",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "treasure",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "soulmate",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "happy",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "fulfilling",
+      "me",
+      "I",
+      "soulmate"
+    ]
+  },
+  {
+    "node1": "happy",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "happy",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "me",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "fulfilling",
+      "I",
+      "you",
+      "happy"
+    ]
+  },
+  {
+    "node1": "me",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "me",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "I",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "fulfilling",
+      "me",
+      "you",
+      "happy"
+    ]
+  },
+  {
+    "node1": "I",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "I",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "fulfilling",
+      "me",
+      "I",
+      "happy"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "everybody tells me so",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "social opinion"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "fulfilling",
+      "me",
+      "I",
+      "you"
+    ]
+  },
+  {
+    "node1": "everybody tells me so",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "everybody tells me so",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "no, no, no",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "fulfilling",
+      "me",
+      "I",
+      "you"
+    ]
+  },
+  {
+    "node1": "no, no, no",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "no, no, no",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "no",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "fulfilling",
+      "me",
+      "I",
+      "you"
+    ]
+  },
+  {
+    "node1": "no",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "no",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "don't worry about it",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "fulfilling",
+      "me",
+      "I",
+      "you"
+    ]
+  },
+  {
+    "node1": "don't worry about it",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "don't worry about it",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "i'm still in love with you",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "emotional state"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "fulfilling",
+      "me",
+      "I",
+      "you"
+    ]
+  },
+  {
+    "node1": "i'm still in love with you",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "wealthy",
+      "poor",
+      "riches",
+      "broke",
+      "prosperous"
+    ]
+  },
+  {
+    "node1": "i'm still in love with you",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "relationship",
+      "materialism"
+    ],
+    "typical_lexicon": [
+      "heart",
+      "engagement ring",
+      "anniversary gift",
+      "soulmate",
+      "fulfilling"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "nice",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "perfection",
+      "neat",
+      "sweet",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street",
+      "once",
+      "twice",
+      "look",
+      "over",
+      "cast"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "perfection",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "sweet",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "perfection",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "direction",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "confidentially",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "street",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "once",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "twice",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "look",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "over",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "cast",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "eye",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "oh",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "my",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "aint",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "repeat",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "neat",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "sweet",
+    "node2": "perfection",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "nice",
+      "neat",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "sweet",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "perfection",
+      "neat",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "perfection",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "direction",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "confidentially",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "street",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "once",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "twice",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "look",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "over",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "cast",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "eye",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "oh",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "my",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "aint",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "very",
+      "walking",
+      "down",
+      "street"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "repeat",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "repeat",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "neat",
+      "sweet",
+      "perfection",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "nice",
+    "node2": "sweet",
+    "relation_type": "context",
+    "topic_terms": [
+      "perfection",
+      "neat",
+      "direction",
+      "confidentially"
+    ],
+    "typical_lexicon": [
+      "ain't",
+      "very",
+      "walking",
+      "down"
+    ]
+  },
+  {
+    "node1": "It's been a hard day's night",
+    "node2": "I should be sleeping like a log",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "hard",
+      "day",
+      "night",
+      "sleeping",
+      "log"
+    ],
+    "typical_lexicon": [
+      "tired",
+      "exhausted",
+      "fatigued",
+      "weary",
+      "drained"
+    ]
+  },
+  {
+    "node1": "I've been working like a dog",
+    "node2": "It's been a hard day's night",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "working",
+      "dog",
+      "hard",
+      "day",
+      "night"
+    ],
+    "typical_lexicon": [
+      "job",
+      "workload",
+      "exhausted",
+      "tired",
+      "drained"
+    ]
+  },
+  {
+    "node1": "I should be sleeping like a log",
+    "node2": "But when I get home to you I find the things that you do",
+    "relation_type": "context",
+    "topic_terms": [
+      "sleeping",
+      "log",
+      "home",
+      "you",
+      "things"
+    ],
+    "typical_lexicon": [
+      "bed",
+      "rest",
+      "relaxation",
+      "calmness",
+      "serenity"
+    ]
+  },
+  {
+    "node1": "Will make me feel alright",
+    "node2": "You know I feel OK",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "alright",
+      "feel",
+      "OK"
+    ],
+    "typical_lexicon": [
+      "happy",
+      "contented",
+      "satisfied",
+      "pleased",
+      "joyful"
+    ]
+  },
+  {
+    "node1": "You know I work all day to get you money to buy you things",
+    "node2": "And it's worth it just to hear you say you're going to give me everything",
+    "relation_type": "context",
+    "topic_terms": [
+      "work",
+      "day",
+      "money",
+      "things",
+      "give"
+    ],
+    "typical_lexicon": [
+      "job",
+      "income",
+      "purchase",
+      "gift",
+      "donation"
+    ]
+  },
+  {
+    "node1": "So why on earth should I moan",
+    "node2": "cos when I get you alone You know I feel OK",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "moan",
+      "earth",
+      "alone",
+      "OK"
+    ],
+    "typical_lexicon": [
+      "sadness",
+      "sorrow",
+      "pain",
+      "trouble",
+      "woe"
+    ]
+  },
+  {
+    "node1": "When I'm home everything seems to be right",
+    "node2": "When I'm home feeling you holding me tight, tight, yeah",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "home",
+      "everything",
+      "right",
+      "tight"
+    ],
+    "typical_lexicon": [
+      "comfortable",
+      "secure",
+      "safe",
+      "protected",
+      "peaceful"
+    ]
+  },
+  {
+    "node1": "Baby",
+    "node2": "good",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "relationship",
+      "baby",
+      "girl"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "happy",
+    "node2": "fine",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "relationship",
+      "baby",
+      "girl"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "said",
+    "node2": "so",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "confirmation",
+      "agreement",
+      "love",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "in love",
+    "node2": "fine",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "relationship",
+      "baby",
+      "girl"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "Baby says",
+    "node2": "mine",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "ownership",
+      "relationship",
+      "love"
+    ],
+    "typical_lexicon": [
+      "time",
+      "rings",
+      "world",
+      "glad",
+      "fine"
+    ]
+  },
+  {
+    "node1": "tells me",
+    "node2": "all the time",
+    "relation_type": "context",
+    "topic_terms": [
+      "repetition",
+      "communication",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "rings",
+      "world",
+      "glad",
+      "fine"
+    ]
+  },
+  {
+    "node1": "said so",
+    "node2": "so",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "confirmation",
+      "agreement",
+      "love",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "I'm in love",
+    "node2": "with her",
+    "relation_type": "context",
+    "topic_terms": [
+      "love",
+      "relationship",
+      "baby"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "I feel fine",
+    "node2": "fine",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "happiness",
+      "love",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "Baby says she's mine",
+    "node2": "mine",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "ownership",
+      "relationship",
+      "love"
+    ],
+    "typical_lexicon": [
+      "time",
+      "rings",
+      "world",
+      "glad",
+      "fine"
+    ]
+  },
+  {
+    "node1": "he buys her things",
+    "node2": "things",
+    "relation_type": "context",
+    "topic_terms": [
+      "gifts",
+      "relationship",
+      "love"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "rings",
+      "world",
+      "glad",
+      "fine"
+    ]
+  },
+  {
+    "node1": "She's in love with me",
+    "node2": "me",
+    "relation_type": "context",
+    "topic_terms": [
+      "love",
+      "relationship",
+      "baby"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "She's in love with me",
+    "node2": "I feel fine",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "happiness",
+      "love",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "She's in love with me",
+    "node2": "fine",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "happiness",
+      "love",
+      "relationship"
+    ],
+    "typical_lexicon": [
+      "mine",
+      "time",
+      "rings",
+      "world",
+      "glad"
+    ]
+  },
+  {
+    "node1": "ticket to ride",
+    "node2": "careless",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sadness",
+      "departure",
+      "girlfriend"
+    ],
+    "typical_lexicon": [
+      "leaving me behind",
+      "abandoning love"
+    ]
+  },
+  {
+    "node1": "ticket to ride",
+    "node2": "drive mad",
+    "relation_type": "context",
+    "topic_terms": [
+      "obsession",
+      "heartbreak",
+      "distraction"
+    ],
+    "typical_lexicon": [
+      "infatuation",
+      "all-consuming passion",
+      "emotional turmoil"
+    ]
+  },
+  {
+    "node1": "think twice",
+    "node2": "do right by me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "regret",
+      "responsibility",
+      "accountability"
+    ],
+    "typical_lexicon": [
+      "second chances",
+      "making amends",
+      "mending relationships"
+    ]
+  },
+  {
+    "node1": "sad",
+    "node2": "today",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "emotional state",
+      "awareness",
+      "realization"
+    ],
+    "typical_lexicon": [
+      "melancholy",
+      "sorrowful",
+      "heart-wrenching"
+    ]
+  },
+  {
+    "node1": "girl driving me mad",
+    "node2": "ticket to ride",
+    "relation_type": "context",
+    "topic_terms": [
+      "attraction",
+      "infatuation",
+      "obsession"
+    ],
+    "typical_lexicon": [
+      "all-consuming love",
+      "passionate desire",
+      "intense longing"
+    ]
+  },
+  {
+    "node1": "she don't care",
+    "node2": "ticket to ride",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "indifference",
+      "apathy",
+      "disregard"
+    ],
+    "typical_lexicon": [
+      "caring less",
+      "prioritizing self",
+      "self-preservation"
+    ]
+  },
+  {
+    "node1": "think twice",
+    "node2": "she don't care",
+    "relation_type": "context",
+    "topic_terms": [
+      "advice",
+      "caution",
+      "warning"
+    ],
+    "typical_lexicon": [
+      "thoughtful consideration",
+      "second-guessing",
+      "hesitation"
+    ]
+  },
+  {
+    "node1": "do right by me",
+    "node2": "she don't care",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "concern",
+      "altruism",
+      "kindness"
+    ],
+    "typical_lexicon": [
+      "caring for others",
+      "empathy",
+      "compassion"
+    ]
+  },
+  {
+    "node1": "ticket to ride",
+    "node2": "she said living with me",
+    "relation_type": "context",
+    "topic_terms": [
+      "departure",
+      "leaving",
+      "goodbye"
+    ],
+    "typical_lexicon": [
+      "farewell messages",
+      "last goodbyes",
+      "final words"
+    ]
+  },
+  {
+    "node1": "ticket to ride",
+    "node2": "free when I was around",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "emotional state",
+      "freedom",
+      "encumbrance"
+    ],
+    "typical_lexicon": [
+      "feeling trapped",
+      "restricted freedom",
+      "oppressive relationships"
+    ]
+  },
+  {
+    "node1": "think twice",
+    "node2": "baby don't care",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "advice",
+      "caution",
+      "warning"
+    ],
+    "typical_lexicon": [
+      "thoughtful consideration",
+      "second-guessing",
+      "hesitation"
+    ]
+  },
+  {
+    "node1": "do right by me",
+    "node2": "baby don't care",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "concern",
+      "altruism",
+      "kindness"
+    ],
+    "typical_lexicon": [
+      "caring for others",
+      "empathy",
+      "compassion"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "help",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "need",
+      "somebody",
+      "help"
+    ],
+    "typical_lexicon": [
+      "anyway",
+      "please",
+      "down",
+      "round",
+      "feet",
+      "ground",
+      "life",
+      "change",
+      "ways",
+      "haze"
+    ]
+  },
+  {
+    "node1": "help",
+    "node2": "me",
+    "relation_type": "context",
+    "topic_terms": [
+      "need",
+      "somebody",
+      "help"
+    ],
+    "typical_lexicon": [
+      "anyway",
+      "please",
+      "down",
+      "round",
+      "feet",
+      "ground",
+      "life",
+      "change",
+      "ways",
+      "haze"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "being",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "help",
+      "appreciate"
+    ],
+    "typical_lexicon": [
+      "round",
+      "feet",
+      "ground",
+      "life",
+      "change",
+      "ways",
+      "haze",
+      "today",
+      "yesterday"
+    ]
+  },
+  {
+    "node1": "down",
+    "node2": "help",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "feet",
+      "ground"
+    ],
+    "typical_lexicon": [
+      "please",
+      "round",
+      "life",
+      "change",
+      "ways",
+      "haze"
+    ]
+  },
+  {
+    "node1": "life",
+    "node2": "changed",
+    "relation_type": "context",
+    "topic_terms": [
+      "independence"
+    ],
+    "typical_lexicon": [
+      "ways",
+      "vanish",
+      "haze",
+      "today",
+      "yesterday"
+    ]
+  },
+  {
+    "node1": "independence",
+    "node2": "seems",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "change"
+    ],
+    "typical_lexicon": [
+      "vanish",
+      "haze",
+      "today",
+      "yesterday",
+      "ways"
+    ]
+  },
+  {
+    "node1": "insecure",
+    "node2": "help",
+    "relation_type": "context",
+    "topic_terms": [
+      "need"
+    ],
+    "typical_lexicon": [
+      "please",
+      "down",
+      "round",
+      "feet",
+      "ground",
+      "life"
+    ]
+  },
+  {
+    "node1": "appreciate",
+    "node2": "help",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "being"
+    ],
+    "typical_lexicon": [
+      "down",
+      "round",
+      "feet",
+      "ground",
+      "life"
+    ]
+  },
+  {
+    "node1": "please",
+    "node2": "help",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "help"
+    ],
+    "typical_lexicon": [
+      "down",
+      "round",
+      "feet",
+      "ground",
+      "life"
+    ]
+  },
+  {
+    "node1": "change",
+    "node2": "life",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "ways"
+    ],
+    "typical_lexicon": [
+      "vanish",
+      "haze",
+      "today",
+      "yesterday",
+      "independence"
+    ]
+  },
+  {
+    "node1": "haze",
+    "node2": "life",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "change"
+    ],
+    "typical_lexicon": [
+      "ways",
+      "vanish",
+      "today",
+      "yesterday",
+      "independence"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "help",
+    "relation_type": "context",
+    "topic_terms": [
+      "need"
+    ],
+    "typical_lexicon": [
+      "somebody",
+      "anyway",
+      "please",
+      "down",
+      "round"
+    ]
+  },
+  {
+    "node1": "one way ticket",
+    "node2": "day tripper",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "trip",
+      "weekend",
+      "adventure",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "bus",
+      "train",
+      "car",
+      "flight",
+      "hotel"
+    ]
+  },
+  {
+    "node1": "one way ticket",
+    "node2": "Sunday driver",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "trip",
+      "weekend",
+      "adventure",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "car",
+      "bus",
+      "bike",
+      "train",
+      "drive"
+    ]
+  },
+  {
+    "node1": "day tripper",
+    "node2": "Sunday driver",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "trip",
+      "weekend",
+      "adventure",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "car",
+      "bus",
+      "bike",
+      "train",
+      "drive"
+    ]
+  },
+  {
+    "node1": "one way ticket",
+    "node2": "big teaser",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "person",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "girlfriend",
+      "boyfriend",
+      "lover",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "Sunday driver",
+    "node2": "big teaser",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "person",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "girlfriend",
+      "boyfriend",
+      "lover",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "one way ticket",
+    "node2": "half the way there",
+    "relation_type": "context",
+    "topic_terms": [
+      "travel",
+      "trip",
+      "weekend",
+      "adventure",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "bus",
+      "train",
+      "car",
+      "flight",
+      "hotel"
+    ]
+  },
+  {
+    "node1": "day tripper",
+    "node2": "one way ticket",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "trip",
+      "weekend",
+      "adventure",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "bus",
+      "train",
+      "car",
+      "flight",
+      "hotel"
+    ]
+  },
+  {
+    "node1": "half the way there",
+    "node2": "big teaser",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "person",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "girlfriend",
+      "boyfriend",
+      "lover",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "one night stands",
+    "node2": "big teaser",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sex",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "lover",
+      "girlfriend",
+      "boyfriend",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "one night stands",
+    "node2": "day tripper",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sex",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "lover",
+      "girlfriend",
+      "boyfriend",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "Sunday driver",
+    "node2": "one night stands",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sex",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "lover",
+      "girlfriend",
+      "boyfriend",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "big teaser",
+    "node2": "day tripper",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "person",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "girlfriend",
+      "boyfriend",
+      "lover",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "day tripper",
+    "node2": "one way ticket",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "trip",
+      "weekend",
+      "adventure",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "bus",
+      "train",
+      "car",
+      "flight",
+      "hotel"
+    ]
+  },
+  {
+    "node1": "Sunday driver",
+    "node2": "one way ticket",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "trip",
+      "weekend",
+      "adventure",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "bus",
+      "train",
+      "car",
+      "flight",
+      "hotel"
+    ]
+  },
+  {
+    "node1": "Sunday driver",
+    "node2": "day tripper",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "trip",
+      "weekend",
+      "adventure",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "bus",
+      "train",
+      "car",
+      "flight",
+      "hotel"
+    ]
+  },
+  {
+    "node1": "big teaser",
+    "node2": "one night stands",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sex",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "lover",
+      "girlfriend",
+      "boyfriend",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "one night stands",
+    "node2": "Sunday driver",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sex",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "lover",
+      "girlfriend",
+      "boyfriend",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "day tripper",
+    "node2": "Sunday driver",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "trip",
+      "weekend",
+      "adventure",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "bus",
+      "train",
+      "car",
+      "flight",
+      "hotel"
+    ]
+  },
+  {
+    "node1": "big teaser",
+    "node2": "Sunday driver",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "person",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "girlfriend",
+      "boyfriend",
+      "lover",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "one night stands",
+    "node2": "day tripper",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sex",
+      "relationship",
+      "attraction",
+      "tease",
+      "seduction"
+    ],
+    "typical_lexicon": [
+      "lover",
+      "girlfriend",
+      "boyfriend",
+      "date",
+      "partner"
+    ]
+  },
+  {
+    "node1": "see",
+    "node2": "way",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "time",
+      "crime"
+    ],
+    "typical_lexicon": [
+      "try",
+      "think",
+      "risk",
+      "right",
+      "wrong"
+    ]
+  },
+  {
+    "node1": "work",
+    "node2": "out",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "crime",
+      "time"
+    ],
+    "typical_lexicon": [
+      "can",
+      "get",
+      "straight",
+      "goodnight",
+      "fussing"
+    ]
+  },
+  {
+    "node1": "think",
+    "node2": "what",
+    "relation_type": "context",
+    "topic_terms": [
+      "saying",
+      "wrong",
+      "alright"
+    ],
+    "typical_lexicon": [
+      "say",
+      "way",
+      "crime",
+      "time",
+      "friend"
+    ]
+  },
+  {
+    "node1": "life",
+    "node2": "short",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "crime",
+      "time",
+      "fussing"
+    ],
+    "typical_lexicon": [
+      "is",
+      "very",
+      "my",
+      "and",
+      "there's"
+    ]
+  },
+  {
+    "node1": "friend",
+    "node2": "my",
+    "relation_type": "context",
+    "topic_terms": [
+      "short",
+      "crime",
+      "no",
+      "time",
+      "fussing"
+    ],
+    "typical_lexicon": [
+      "have",
+      "always",
+      "thought",
+      "it's",
+      "so"
+    ]
+  },
+  {
+    "node1": "book",
+    "node2": "job",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "writing",
+      "career",
+      "aspiration",
+      "professional",
+      "success"
+    ],
+    "typical_lexicon": [
+      "novel",
+      "writer",
+      "author",
+      "publisher",
+      "publication"
+    ]
+  },
+  {
+    "node1": "man",
+    "node2": "wife",
+    "relation_type": "context",
+    "topic_terms": [
+      "marriage",
+      "family",
+      "relationship",
+      "conflict",
+      "tension"
+    ],
+    "typical_lexicon": [
+      "husband",
+      "love",
+      "affair",
+      "separation",
+      "divorce"
+    ]
+  },
+  {
+    "node1": "son",
+    "node2": "Daily Mail",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "work",
+      "career",
+      "profession",
+      "industry",
+      "employment"
+    ],
+    "typical_lexicon": [
+      "newspaper",
+      "journalist",
+      "editor",
+      "publisher",
+      "media"
+    ]
+  },
+  {
+    "node1": "pages",
+    "node2": "style",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "writing",
+      "literature",
+      "artistic expression",
+      "creativity",
+      "aesthetics"
+    ],
+    "typical_lexicon": [
+      "novelty",
+      "originality",
+      "characterization",
+      "plot development",
+      "narrative"
+    ]
+  },
+  {
+    "node1": "rights",
+    "node2": "million",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "finance",
+      "economy",
+      "commerce",
+      "business",
+      "investment"
+    ],
+    "typical_lexicon": [
+      "money",
+      "profit",
+      "income",
+      "revenue",
+      "wealth"
+    ]
+  },
+  {
+    "node1": "break",
+    "node2": "writer",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "career",
+      "profession",
+      "aspiration",
+      "success",
+      "achievement"
+    ],
+    "typical_lexicon": [
+      "job",
+      "position",
+      "title",
+      "responsibility",
+      "authority"
+    ]
+  },
+  {
+    "node1": "book",
+    "node2": "writer",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "literature",
+      "writing",
+      "authorship",
+      "publication",
+      "industry"
+    ],
+    "typical_lexicon": [
+      "novel",
+      "story",
+      "poetry",
+      "play",
+      "script"
+    ]
+  },
+  {
+    "node1": "writer",
+    "node2": "paperback",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "career",
+      "profession",
+      "aspiration",
+      "success",
+      "achievement"
+    ],
+    "typical_lexicon": [
+      "author",
+      "novelist",
+      "journalist",
+      "editor",
+      "publisher"
+    ]
+  },
+  {
+    "node1": "paperback",
+    "node2": "writer",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "career",
+      "profession",
+      "aspiration",
+      "success",
+      "achievement"
+    ],
+    "typical_lexicon": [
+      "novel",
+      "story",
+      "poetry",
+      "play",
+      "script"
+    ]
+  },
+  {
+    "node1": "paperback",
+    "node2": "writer",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "career",
+      "profession",
+      "aspiration",
+      "success",
+      "achievement"
+    ],
+    "typical_lexicon": [
+      "novel",
+      "story",
+      "poetry",
+      "play",
+      "script"
+    ]
+  },
+  {
+    "node1": "paperback",
+    "node2": "writer",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "career",
+      "profession",
+      "aspiration",
+      "success",
+      "achievement"
+    ],
+    "typical_lexicon": [
+      "novel",
+      "story",
+      "poetry",
+      "play",
+      "script"
+    ]
+  },
+  {
+    "node1": "paperback",
+    "node2": "writer",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "career",
+      "profession",
+      "aspiration",
+      "success",
+      "achievement"
+    ],
+    "typical_lexicon": [
+      "novel",
+      "story",
+      "poetry",
+      "play",
+      "script"
+    ]
+  },
+  {
+    "node1": "submarine",
+    "node2": "life",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "underwater",
+      "adventure",
+      "fun",
+      "family",
+      "friendship"
+    ],
+    "typical_lexicon": [
+      "yellow",
+      "sea",
+      "green",
+      "beneath",
+      "waves"
+    ]
+  },
+  {
+    "node1": "submarine",
+    "node2": "birthplace",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "childhood",
+      "memories",
+      "narrative",
+      "storytelling"
+    ],
+    "typical_lexicon": [
+      "town",
+      "man",
+      "sea",
+      "travel"
+    ]
+  },
+  {
+    "node1": "life",
+    "node2": "sailing",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "adventure",
+      "journey",
+      "discovery",
+      "exploration",
+      "risk"
+    ],
+    "typical_lexicon": [
+      "land",
+      "oceans",
+      "vessels",
+      "crew",
+      "horizon"
+    ]
+  },
+  {
+    "node1": "yellow submarine",
+    "node2": "green sea",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "underwater",
+      "ecological",
+      "sustainable",
+      "harmony",
+      "balance"
+    ],
+    "typical_lexicon": [
+      "submarine",
+      "sea",
+      "ocean",
+      "waves",
+      "beneath"
+    ]
+  },
+  {
+    "node1": "submarine",
+    "node2": "friendship",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "bonding",
+      "camaraderie",
+      "community",
+      "mutual support",
+      "togetherness"
+    ],
+    "typical_lexicon": [
+      "family",
+      "friends",
+      "aboard",
+      "next door",
+      "neighborhood"
+    ]
+  },
+  {
+    "node1": "submarine",
+    "node2": "band",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "entertainment",
+      "music",
+      "recreation",
+      "relaxation"
+    ],
+    "typical_lexicon": [
+      "play",
+      "song",
+      "dance",
+      "laughter",
+      "jubilation"
+    ]
+  },
+  {
+    "node1": "submarine",
+    "node2": "adventure",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "excitement",
+      "thrill",
+      "challenge",
+      "journey",
+      "discovery"
+    ],
+    "typical_lexicon": [
+      "sailing",
+      "travelling",
+      "exploration",
+      "risk",
+      "fun"
+    ]
+  },
+  {
+    "node1": "life of ease",
+    "node2": "abundance",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "comfort",
+      "satisfaction",
+      "contentment",
+      "happiness"
+    ],
+    "typical_lexicon": [
+      "need",
+      "sky",
+      "blue",
+      "green",
+      "serenity"
+    ]
+  },
+  {
+    "node1": "submarine",
+    "node2": "utopia",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "paradise",
+      "heavenly",
+      "idyllic",
+      "peaceful",
+      "harmonious"
+    ],
+    "typical_lexicon": [
+      "yellow",
+      "sea",
+      "green",
+      "beneath",
+      "waves"
+    ]
+  },
+  {
+    "node1": "Mr. Boatswain",
+    "node2": "authority",
+    "relation_type": "context",
+    "topic_terms": [
+      "command",
+      "control",
+      "decree",
+      "compliance"
+    ],
+    "typical_lexicon": [
+      "sailor",
+      "officer",
+      "ship",
+      "vessel",
+      "ocean"
+    ]
+  },
+  {
+    "node1": "submarine",
+    "node2": "exploration",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "discovery",
+      "adventure",
+      "journey",
+      "travel",
+      "research"
+    ],
+    "typical_lexicon": [
+      "sea",
+      "ocean",
+      "waves",
+      "beneath",
+      "horizon"
+    ]
+  },
+  {
+    "node1": "Eleanor Rigby",
+    "node2": "lives in a dream",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "lonely",
+      "people",
+      "dream",
+      "church"
+    ],
+    "typical_lexicon": [
+      "lonely",
+      "dreams",
+      "alone",
+      "forgotten",
+      "sadness"
+    ]
+  },
+  {
+    "node1": "lives in a dream",
+    "node2": "waits at the window",
+    "relation_type": "context",
+    "topic_terms": [
+      "dream",
+      "waiting",
+      "lonely"
+    ],
+    "typical_lexicon": [
+      "longing",
+      "desperation",
+      "emptiness",
+      "aloneness"
+    ]
+  },
+  {
+    "node1": "Father McKenzie",
+    "node2": "writing the words of a sermon",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "preacher",
+      "sermon",
+      "lonely"
+    ],
+    "typical_lexicon": [
+      "forgotten",
+      "neglected",
+      "unheard",
+      "ignored"
+    ]
+  },
+  {
+    "node1": "no one comes near",
+    "node2": "what does he care?",
+    "relation_type": "context",
+    "topic_terms": [
+      "lonely",
+      "neglect"
+    ],
+    "typical_lexicon": [
+      "abandoned",
+      "unloved",
+      "forsaken"
+    ]
+  },
+  {
+    "node1": "Eleanor Rigby died in the church",
+    "node2": "Father McKenzie wiping the dirt from his hands",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "death",
+      "burial",
+      "lonely"
+    ],
+    "typical_lexicon": [
+      "neglected",
+      "forgotten",
+      "unmarked"
+    ]
+  },
+  {
+    "node1": "where do they all come from?",
+    "node2": "all the lonely people",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "lonely",
+      "people"
+    ],
+    "typical_lexicon": [
+      "isolated",
+      "separated",
+      "estranged"
+    ]
+  },
+  {
+    "node1": "where do they all belong?",
+    "node2": "all the lonely people",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "lonely",
+      "people"
+    ],
+    "typical_lexicon": [
+      "belonging",
+      "acceptance",
+      "appreciation"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "photographs",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "images",
+      "suburbs",
+      "normalcy"
+    ],
+    "typical_lexicon": [
+      "customers",
+      "cuts",
+      "haircut",
+      "pictures",
+      "album",
+      "photoshoot",
+      "model",
+      "beauty",
+      "parlor",
+      "scissors"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "banker",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "office",
+      "suit",
+      "briefcase",
+      "tie",
+      "client",
+      "haircut",
+      "customer",
+      "service",
+      "provider"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "motorcar",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "financial",
+      "loan",
+      "credit",
+      "insurance",
+      "money",
+      "bank",
+      "branch"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "mac",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "umbrella",
+      "coat",
+      "hat",
+      "gloves",
+      "scarf"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "fireman",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "police",
+      "ambulance",
+      "medical",
+      "aid",
+      "rescue"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "hourglass",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "time",
+      "clock",
+      "schedule",
+      "appointment"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "portrait_of_queen",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "monarch",
+      "royalty",
+      "regal",
+      "majesty"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "barber",
+    "relation_type": "context",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "office",
+      "suit",
+      "briefcase",
+      "tie"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "children",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "playground",
+      "school",
+      "teacher"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "laugh_at_him",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "tease",
+      "mock",
+      "ridicule"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "children",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "playground",
+      "school",
+      "teacher"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "children",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "playground",
+      "school",
+      "teacher"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "mac",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "umbrella",
+      "coat",
+      "hat",
+      "gloves",
+      "scarf"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "mac",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "umbrella",
+      "coat",
+      "hat",
+      "gloves",
+      "scarf"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "pocket",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "wallet",
+      "keys",
+      "phone"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "pocket",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "wallet",
+      "keys",
+      "phone"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "customer",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "haircut",
+      "service",
+      "provider"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "trim",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "haircut",
+      "service",
+      "provider"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "customer",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "haircut",
+      "service",
+      "provider"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "shop",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "parlor",
+      "beauty"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "shop",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "parlor",
+      "beauty"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "four_of_fish_and_finger_pies",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "food",
+      "drink",
+      "snack"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "four_of_fish_and_finger_pies",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "food",
+      "drink",
+      "snack"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "shelter",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "building",
+      "structure",
+      "location"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "roundabout",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "intersection",
+      "crossroads"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "shelter",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "building",
+      "structure",
+      "location"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "roundabout",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "intersection",
+      "crossroads"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "shelter",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "building",
+      "structure",
+      "location"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "roundabout",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "intersection",
+      "crossroads"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "poppy",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "flower",
+      "plant",
+      "garden"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "nurse",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "medical",
+      "aid",
+      "health"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "poppy",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "flower",
+      "plant",
+      "garden"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "nurse",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "medical",
+      "aid",
+      "health"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "poppy",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "flower",
+      "plant",
+      "garden"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "nurse",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "medical",
+      "aid",
+      "health"
+    ]
+  },
+  {
+    "node1": "banker",
+    "node2": "play",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "theater",
+      "dance",
+      "performance"
+    ]
+  },
+  {
+    "node1": "barber",
+    "node2": "play",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "theater",
+      "dance",
+      "performance"
+    ]
+  },
+  {
+    "node1": "fireman",
+    "node2": "play",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "Penny_Lane",
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life"
+    ],
+    "typical_lexicon": [
+      "theater",
+      "dance",
+      "performance"
+    ]
+  },
+  {
+    "node1": "Penny_Lane",
+    "node2": "barber",
+    "relation_type": "context",
+    "topic_terms": [
+      "place",
+      "location",
+      "scene",
+      "setting",
+      "atmosphere"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "Penny_Lane",
+    "node2": "banker",
+    "relation_type": "context",
+    "topic_terms": [
+      "place",
+      "location",
+      "scene",
+      "setting",
+      "atmosphere"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "Penny_Lane",
+    "node2": "fireman",
+    "relation_type": "context",
+    "topic_terms": [
+      "place",
+      "location",
+      "scene",
+      "setting",
+      "atmosphere"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "photographs",
+    "node2": "barber",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life",
+      "images"
+    ],
+    "typical_lexicon": [
+      "photoshoot",
+      "model",
+      "beauty"
+    ]
+  },
+  {
+    "node1": "photographs",
+    "node2": "banker",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life",
+      "images"
+    ],
+    "typical_lexicon": [
+      "financial",
+      "loan",
+      "credit",
+      "insurance"
+    ]
+  },
+  {
+    "node1": "photographs",
+    "node2": "fireman",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life",
+      "images"
+    ],
+    "typical_lexicon": [
+      "police",
+      "ambulance",
+      "medical"
+    ]
+  },
+  {
+    "node1": "image",
+    "node2": "barber",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life",
+      "images"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "image",
+    "node2": "banker",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life",
+      "images"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "image",
+    "node2": "fireman",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "people",
+      "jobs",
+      "normalcy",
+      "everyday_life",
+      "images"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "mac",
+    "node2": "barber",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "weather",
+      "clothing",
+      "umbrella",
+      "coat",
+      "hat"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "mac",
+    "node2": "banker",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "weather",
+      "clothing",
+      "umbrella",
+      "coat",
+      "hat"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "mac",
+    "node2": "fireman",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "weather",
+      "clothing",
+      "umbrella",
+      "coat",
+      "hat"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "rain",
+    "node2": "barber",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "weather",
+      "clothing",
+      "umbrella",
+      "coat",
+      "hat"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "rain",
+    "node2": "banker",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "weather",
+      "clothing",
+      "umbrella",
+      "coat",
+      "hat"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "rain",
+    "node2": "fireman",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "weather",
+      "clothing",
+      "umbrella",
+      "coat",
+      "hat"
+    ],
+    "typical_lexicon": []
+  },
+  {
+    "node1": "strawberry",
+    "node2": "fields",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "dream",
+      "reality",
+      "confusion"
+    ],
+    "typical_lexicon": [
+      "forever",
+      "easy",
+      "high",
+      "low",
+      "someone"
+    ]
+  },
+  {
+    "node1": "nothing",
+    "node2": "real",
+    "relation_type": "context",
+    "topic_terms": [
+      "reality",
+      "truth",
+      "absence"
+    ],
+    "typical_lexicon": [
+      "hung",
+      "about",
+      "forever",
+      "easy",
+      "closed"
+    ]
+  },
+  {
+    "node1": "living",
+    "node2": "eyes",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "life",
+      "perception",
+      "closure"
+    ],
+    "typical_lexicon": [
+      "closed",
+      "easy",
+      "someone",
+      "high",
+      "low"
+    ]
+  },
+  {
+    "node1": "misunderstanding",
+    "node2": "all",
+    "relation_type": "context",
+    "topic_terms": [
+      "misinterpretation",
+      "confusion",
+      "perception"
+    ],
+    "typical_lexicon": [
+      "see",
+      "easy",
+      "closed",
+      "someone",
+      "getting"
+    ]
+  },
+  {
+    "node1": "getting",
+    "node2": "hard",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "difficulty",
+      "challenging",
+      "becoming"
+    ],
+    "typical_lexicon": [
+      "be",
+      "someone",
+      "works",
+      "out",
+      "doesn't"
+    ]
+  },
+  {
+    "node1": "hung",
+    "node2": "about",
+    "relation_type": "context",
+    "topic_terms": [
+      "concern",
+      "anxiety",
+      "reality"
+    ],
+    "typical_lexicon": [
+      "nothing",
+      "real",
+      "forever",
+      "easy",
+      "closed"
+    ]
+  },
+  {
+    "node1": "forever",
+    "node2": "strawberry",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "eternity",
+      "longevity",
+      "fields"
+    ],
+    "typical_lexicon": [
+      "fields",
+      "nothing",
+      "real",
+      "hung",
+      "about"
+    ]
+  },
+  {
+    "node1": "dream",
+    "node2": "me",
+    "relation_type": "context",
+    "topic_terms": [
+      "imaginary",
+      "illusory",
+      "identity"
+    ],
+    "typical_lexicon": [
+      "think",
+      "know",
+      "sometimes",
+      "it's",
+      "right"
+    ]
+  },
+  {
+    "node1": "tune",
+    "node2": "in",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "music",
+      "sound",
+      "communication"
+    ],
+    "typical_lexicon": [
+      "but",
+      "you",
+      "can't",
+      "know",
+      "it's"
+    ]
+  },
+  {
+    "node1": "tree",
+    "node2": "me",
+    "relation_type": "context",
+    "topic_terms": [
+      "location",
+      "position",
+      "identity"
+    ],
+    "typical_lexicon": [
+      "in",
+      "my",
+      "no",
+      "one",
+      "think"
+    ]
+  },
+  {
+    "node1": "high",
+    "node2": "low",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "height",
+      "depth",
+      "contrast"
+    ],
+    "typical_lexicon": [
+      "or",
+      "that",
+      "you",
+      "can't",
+      "tune"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "easy",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "easy",
+      "game"
+    ],
+    "typical_lexicon": [
+      "play",
+      "time",
+      "you",
+      "need",
+      "is"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "save",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "save",
+      "made"
+    ],
+    "typical_lexicon": [
+      "can",
+      "be",
+      "do",
+      "time",
+      "you"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "know",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "know",
+      "seen"
+    ],
+    "typical_lexicon": [
+      "isn't",
+      "been",
+      "where",
+      "meant",
+      "be"
+    ]
+  },
+  {
+    "node1": "game",
+    "node2": "easy",
+    "relation_type": "context",
+    "topic_terms": [
+      "play",
+      "time",
+      "you",
+      "need"
+    ],
+    "typical_lexicon": [
+      "can",
+      "do",
+      "learn",
+      "isn't",
+      "shown"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "she",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "she",
+      "yeah"
+    ],
+    "typical_lexicon": [
+      "loves",
+      "you",
+      "yeah",
+      "need",
+      "is"
+    ]
+  },
+  {
+    "node1": "yesterday",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "yesterday",
+      "love",
+      "yeah"
+    ],
+    "typical_lexicon": [
+      "needs",
+      "all",
+      "you",
+      "need",
+      "is"
+    ]
+  },
+  {
+    "node1": "yes",
+    "node2": "no",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "difference",
+      "opposite",
+      "contrast"
+    ],
+    "typical_lexicon": [
+      "I say no"
+    ]
+  },
+  {
+    "node1": "stop",
+    "node2": "go go go",
+    "relation_type": "context",
+    "topic_terms": [
+      "action",
+      "direction",
+      "choice"
+    ],
+    "typical_lexicon": [
+      "I'll stop",
+      "keep going"
+    ]
+  },
+  {
+    "node1": "goodbye",
+    "node2": "hello",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "greeting",
+      "farewell",
+      "communication"
+    ],
+    "typical_lexicon": [
+      "say hello",
+      "don't say goodbye"
+    ]
+  },
+  {
+    "node1": "why",
+    "node2": "I don't know",
+    "relation_type": "context",
+    "topic_terms": [
+      "question",
+      "inquiry",
+      "ignorance"
+    ],
+    "typical_lexicon": [
+      "ask me why",
+      "I'm not sure"
+    ]
+  },
+  {
+    "node1": "goodbye",
+    "node2": "hello",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "greeting",
+      "farewell",
+      "communication"
+    ],
+    "typical_lexicon": [
+      "say hello",
+      "don't say goodbye"
+    ]
+  },
+  {
+    "node1": "I don't know why",
+    "node2": "goodbye",
+    "relation_type": "context",
+    "topic_terms": [
+      "mystery",
+      "confusion",
+      "inquiry"
+    ],
+    "typical_lexicon": [
+      "ask me again",
+      "I still don't understand"
+    ]
+  },
+  {
+    "node1": "hello/goodbye",
+    "node2": "yes/no",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "opposite",
+      "difference",
+      "contrast"
+    ],
+    "typical_lexicon": [
+      "say yes and no",
+      "stop and go"
+    ]
+  },
+  {
+    "node1": "goodbye",
+    "node2": "hello",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "greeting",
+      "farewell",
+      "communication"
+    ],
+    "typical_lexicon": [
+      "say hello",
+      "don't say goodbye"
+    ]
+  },
+  {
+    "node1": "Roll",
+    "node2": "Mystery",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "tour",
+      "invitation",
+      "reservation"
+    ],
+    "typical_lexicon": [
+      "up",
+      "way",
+      "take",
+      "away",
+      "everything"
+    ]
+  },
+  {
+    "node1": "Magical",
+    "node2": "Tour",
+    "relation_type": "context",
+    "topic_terms": [
+      "mystery",
+      "trip",
+      "inviting",
+      "satisfaction"
+    ],
+    "typical_lexicon": [
+      "waiting",
+      "hopping",
+      "reservation",
+      "guaranteed",
+      "everything"
+    ]
+  },
+  {
+    "node1": "We",
+    "node2": "Everything",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "you",
+      "need",
+      "tour",
+      "mystery"
+    ],
+    "typical_lexicon": [
+      "satisfaction",
+      "guaranteed",
+      "take",
+      "away",
+      "today"
+    ]
+  },
+  {
+    "node1": "Satisfaction",
+    "node2": "Guaranteed",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "everything",
+      "you",
+      "need",
+      "mystery"
+    ],
+    "typical_lexicon": [
+      "tour",
+      "waiting",
+      "hopping",
+      "reservation",
+      "today"
+    ]
+  },
+  {
+    "node1": "Aaaah",
+    "node2": "Magical",
+    "relation_type": "context",
+    "topic_terms": [
+      "mystery",
+      "tour",
+      "inviting",
+      "satisfaction"
+    ],
+    "typical_lexicon": [
+      "coming",
+      "dying",
+      "take",
+      "away",
+      "today"
+    ]
+  },
+  {
+    "node1": "children",
+    "node2": "at",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "family",
+      "motherhood"
+    ],
+    "typical_lexicon": [
+      "kids",
+      "little ones",
+      "nursery",
+      "bath time"
+    ]
+  },
+  {
+    "node1": "money",
+    "node2": "heaven",
+    "relation_type": "context",
+    "topic_terms": [
+      "finances",
+      "support",
+      "help"
+    ],
+    "typical_lexicon": [
+      "income",
+      "salaries",
+      "wages",
+      "benefits"
+    ]
+  },
+  {
+    "node1": "sunday",
+    "node2": "morning",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "day of the week",
+      "start of a new day"
+    ],
+    "typical_lexicon": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday"
+    ]
+  },
+  {
+    "node1": "bootlace",
+    "node2": "Monday",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "days of the week",
+      "activities",
+      "tasks"
+    ],
+    "typical_lexicon": [
+      "ties",
+      "shoes",
+      "clothing",
+      "accessories"
+    ]
+  },
+  {
+    "node1": "run",
+    "node2": "see",
+    "relation_type": "context",
+    "topic_terms": [
+      "action",
+      "verb",
+      "activity"
+    ],
+    "typical_lexicon": [
+      "play",
+      "move",
+      "jump",
+      "dancing"
+    ]
+  },
+  {
+    "node1": "music",
+    "node2": "head",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sound",
+      "thoughts",
+      "emotions"
+    ],
+    "typical_lexicon": [
+      "song",
+      "melody",
+      "rhyme",
+      "harmony"
+    ]
+  },
+  {
+    "node1": "afternoon",
+    "node2": "never",
+    "relation_type": "context",
+    "topic_terms": [
+      "time",
+      "duration",
+      "length"
+    ],
+    "typical_lexicon": [
+      "short",
+      "long",
+      "brief",
+      "protracted"
+    ]
+  },
+  {
+    "node1": "papers",
+    "node2": "wednesday",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "news",
+      "information",
+      "communication"
+    ],
+    "typical_lexicon": [
+      "newspaper",
+      "magazine",
+      "journal",
+      "newsletter"
+    ]
+  },
+  {
+    "node1": "night",
+    "node2": "Thursday",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "day of the week",
+      "time of day"
+    ],
+    "typical_lexicon": [
+      "evening",
+      "midnight",
+      "dawn",
+      "twilight"
+    ]
+  },
+  {
+    "node1": "stockings",
+    "node2": "mending",
+    "relation_type": "context",
+    "topic_terms": [
+      "clothing",
+      "repair",
+      "maintenance"
+    ],
+    "typical_lexicon": [
+      "sewing",
+      "needlework",
+      "alterations",
+      "tailoring"
+    ]
+  },
+  {
+    "node1": "breast",
+    "node2": "baby",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "motherhood",
+      "nursing",
+      "childcare"
+    ],
+    "typical_lexicon": [
+      "feeding",
+      "nutrition",
+      "lactation",
+      "diapering"
+    ]
+  },
+  {
+    "node1": "head",
+    "node2": "music",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "thoughts",
+      "emotions",
+      "sound"
+    ],
+    "typical_lexicon": [
+      "song",
+      "melody",
+      "rhyme",
+      "harmony"
+    ]
+  },
+  {
+    "node1": "Jude",
+    "node2": "heart",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "relationship",
+      "emotions"
+    ],
+    "typical_lexicon": [
+      "you",
+      "her",
+      "to",
+      "in",
+      "your"
+    ]
+  },
+  {
+    "node1": "sad song",
+    "node2": "better",
+    "relation_type": "context",
+    "topic_terms": [
+      "music",
+      "mood",
+      "improvement"
+    ],
+    "typical_lexicon": [
+      "make",
+      "it",
+      "bad",
+      "take",
+      "a"
+    ]
+  },
+  {
+    "node1": "world",
+    "node2": "shoulders",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "burden",
+      "responsibility",
+      "weight"
+    ],
+    "typical_lexicon": [
+      "you",
+      "know",
+      "that",
+      "it's",
+      "a"
+    ]
+  },
+  {
+    "node1": "pain",
+    "node2": "refrain",
+    "relation_type": "context",
+    "topic_terms": [
+      "suffering",
+      "relief",
+      "escape"
+    ],
+    "typical_lexicon": [
+      "feel",
+      "the",
+      "anytime",
+      "you"
+    ]
+  },
+  {
+    "node1": "Jude",
+    "node2": "begin",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "action",
+      "initiation",
+      "movement"
+    ],
+    "typical_lexicon": [
+      "so",
+      "let",
+      "it",
+      "out",
+      "and"
+    ]
+  },
+  {
+    "node1": "someone",
+    "node2": "perform with",
+    "relation_type": "context",
+    "topic_terms": [
+      "partner",
+      "collaboration",
+      "musicality"
+    ],
+    "typical_lexicon": [
+      "you're",
+      "waiting",
+      "for",
+      "just",
+      "it's"
+    ]
+  },
+  {
+    "node1": "Jude",
+    "node2": "do",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "ability",
+      "potential",
+      "capability"
+    ],
+    "typical_lexicon": [
+      "you'll",
+      "the",
+      "movement",
+      "is",
+      "on"
+    ]
+  },
+  {
+    "node1": "get",
+    "node2": "back",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "belonging",
+      "home",
+      "returning"
+    ],
+    "typical_lexicon": [
+      "home",
+      "belonged",
+      "once",
+      "grass",
+      "Tucson"
+    ]
+  },
+  {
+    "node1": "Jo Jo",
+    "node2": "loner",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "identity",
+      "self-perception"
+    ],
+    "typical_lexicon": [
+      "thought",
+      "knew",
+      "once",
+      "last",
+      "man"
+    ]
+  },
+  {
+    "node1": "Loretta",
+    "node2": "woman",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "gender",
+      "identity"
+    ],
+    "typical_lexicon": [
+      "sweet",
+      "Martin",
+      "another",
+      "man",
+      "coming"
+    ]
+  },
+  {
+    "node1": "California",
+    "node2": "grass",
+    "relation_type": "context",
+    "topic_terms": [
+      "location",
+      "geography",
+      "change"
+    ],
+    "typical_lexicon": [
+      "Tucson",
+      "Arizona",
+      "home",
+      "left",
+      "belonged"
+    ]
+  },
+  {
+    "node1": "high-heel",
+    "node2": "shoes",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "femininity",
+      "style"
+    ],
+    "typical_lexicon": [
+      "mommy",
+      "waiting",
+      "low-neck",
+      "sweater",
+      "get"
+    ]
+  },
+  {
+    "node1": "belonged",
+    "node2": "home",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sense of belonging"
+    ],
+    "typical_lexicon": [
+      "back",
+      "once",
+      "grass",
+      "Tucson",
+      "California"
+    ]
+  },
+  {
+    "node1": "Southampton",
+    "node2": "Holland",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "Europe",
+      "difficulty"
+    ],
+    "typical_lexicon": [
+      "plane",
+      "passport",
+      "visa",
+      "border",
+      "customs"
+    ]
+  },
+  {
+    "node1": "man in the mac",
+    "node2": "Southampton",
+    "relation_type": "context",
+    "topic_terms": [
+      "authority",
+      "restriction",
+      "travel"
+    ],
+    "typical_lexicon": [
+      "police",
+      "official",
+      "bureaucracy",
+      "red tape",
+      "regulation"
+    ]
+  },
+  {
+    "node1": "France",
+    "node2": "Holland",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "Europe",
+      "difficulties"
+    ],
+    "typical_lexicon": [
+      "border",
+      "customs",
+      "passport",
+      "visa",
+      "transportation"
+    ]
+  },
+  {
+    "node1": "Christ you know it ain't easy",
+    "node2": "You know how hard it can be",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "difficulty",
+      "struggle",
+      "challenge"
+    ],
+    "typical_lexicon": [
+      "hardship",
+      "obstacle",
+      "hindrance",
+      "barrier",
+      "obstruction"
+    ]
+  },
+  {
+    "node1": "way things are going",
+    "node2": "crucify me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "struggle",
+      "sacrifice",
+      "persecution"
+    ],
+    "typical_lexicon": [
+      "oppression",
+      "intolerance",
+      "injustice",
+      "harassment",
+      "reprisal"
+    ]
+  },
+  {
+    "node1": "Paris",
+    "node2": "Seine",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "Europe",
+      "relaxation"
+    ],
+    "typical_lexicon": [
+      "honeymoon",
+      "vacation",
+      "leisure",
+      "recreation",
+      "relax"
+    ]
+  },
+  {
+    "node1": "Peter Brown",
+    "node2": "Gibraltar",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "marriage",
+      "legality"
+    ],
+    "typical_lexicon": [
+      "wedding",
+      "ceremony",
+      "license",
+      "registry",
+      "documentation"
+    ]
+  },
+  {
+    "node1": "Drove from Paris to the Amsterdam Hilton",
+    "node2": "Talking in our beds for a week",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "relaxation",
+      "intimacy"
+    ],
+    "typical_lexicon": [
+      "vacation",
+      "honeymoon",
+      "leisure",
+      "recreation",
+      "sex"
+    ]
+  },
+  {
+    "node1": "newspapers said",
+    "node2": "Say what you doing in bed?",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "media",
+      "sensationalism",
+      "intrusion"
+    ],
+    "typical_lexicon": [
+      "scandal",
+      "gossip",
+      "rumor",
+      "reportage",
+      "exposure"
+    ]
+  },
+  {
+    "node1": "Saving up your money for a rainy day",
+    "node2": "Giving all your clothes to charity",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "economy",
+      "budgeting",
+      "charity"
+    ],
+    "typical_lexicon": [
+      "frugality",
+      "thriftness",
+      "parsimony",
+      "generosity",
+      "altruism"
+    ]
+  },
+  {
+    "node1": "Last night the wife said",
+    "node2": "Poor boy, when you're dead",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "death",
+      "mortality",
+      "afterlife"
+    ],
+    "typical_lexicon": [
+      "funeral",
+      "burial",
+      "cemetery",
+      "graveyard",
+      "eternity"
+    ]
+  },
+  {
+    "node1": "Made a lightning trip to Vienna",
+    "node2": "Eating chocolate cake in a bag",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "Europe",
+      "indulgence"
+    ],
+    "typical_lexicon": [
+      "vacation",
+      "honeymoon",
+      "leisure",
+      "recreation",
+      "gourmet"
+    ]
+  },
+  {
+    "node1": "newspapers said",
+    "node2": "She's gone to his head",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "media",
+      "sensationalism",
+      "romanticization"
+    ],
+    "typical_lexicon": [
+      "fantasy",
+      "idealization",
+      "exaggeration",
+      "reportage",
+      "exposure"
+    ]
+  },
+  {
+    "node1": "Caught an early plane back to London",
+    "node2": "Fifty acorns tied in a sack",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "travel",
+      "return",
+      "absurdity"
+    ],
+    "typical_lexicon": [
+      "novelty",
+      "quirkiness",
+      "originality",
+      "singularity",
+      "curiosity"
+    ]
+  },
+  {
+    "node1": "men from the press said",
+    "node2": "We wish you success",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "media",
+      "reportage",
+      "well-wishing"
+    ],
+    "typical_lexicon": [
+      "journalism",
+      "publicity",
+      "acknowledgement",
+      "recognition",
+      "endorsement"
+    ]
+  },
+  {
+    "node1": "something",
+    "node2": "lover",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "her",
+      "me",
+      "way",
+      "moves"
+    ],
+    "typical_lexicon": [
+      "in",
+      "the",
+      "her",
+      "no",
+      "other"
+    ]
+  },
+  {
+    "node1": "something",
+    "node2": "woos me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "her",
+      "me",
+      "way",
+      "moves"
+    ],
+    "typical_lexicon": [
+      "in",
+      "the",
+      "her",
+      "no",
+      "other"
+    ]
+  },
+  {
+    "node1": "i don't want to leave her now",
+    "node2": "you know i believe and how",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "her",
+      "me",
+      "now",
+      "believe"
+    ],
+    "typical_lexicon": [
+      "don't",
+      "leave",
+      "you",
+      "know",
+      "want"
+    ]
+  },
+  {
+    "node1": "somewhere in her smile she knows",
+    "node2": "i don't need no other lover",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "her",
+      "me",
+      "now",
+      "believe"
+    ],
+    "typical_lexicon": [
+      "in",
+      "the",
+      "her",
+      "no",
+      "other"
+    ]
+  },
+  {
+    "node1": "something in her style that shows me",
+    "node2": "i don't want to leave her now",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "her",
+      "me",
+      "now",
+      "believe"
+    ],
+    "typical_lexicon": [
+      "in",
+      "the",
+      "her",
+      "no",
+      "other"
+    ]
+  },
+  {
+    "node1": "you're asking me will my love grow",
+    "node2": "i don't know i don't know",
+    "relation_type": "context",
+    "topic_terms": [
+      "love",
+      "me",
+      "now",
+      "believe",
+      "how"
+    ],
+    "typical_lexicon": [
+      "will",
+      "my",
+      "grow",
+      "you're",
+      "asking"
+    ]
+  },
+  {
+    "node1": "you stick around now it may show",
+    "node2": "i don't know i don't know",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "me",
+      "now",
+      "believe",
+      "how"
+    ],
+    "typical_lexicon": [
+      "stick",
+      "around",
+      "it",
+      "may",
+      "show"
+    ]
+  },
+  {
+    "node1": "something in the way she knows",
+    "node2": "all i have to do is think of her",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "her",
+      "me",
+      "way",
+      "moves"
+    ],
+    "typical_lexicon": [
+      "in",
+      "the",
+      "her",
+      "no",
+      "other"
+    ]
+  },
+  {
+    "node1": "something in the things she shows me",
+    "node2": "i don't want to leave her now",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "her",
+      "me",
+      "now",
+      "believe"
+    ],
+    "typical_lexicon": [
+      "in",
+      "the",
+      "her",
+      "no",
+      "other"
+    ]
+  },
+  {
+    "node1": "he",
+    "node2": "got",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "he",
+      "got",
+      "together"
+    ],
+    "typical_lexicon": [
+      "ju-ju eyeball",
+      "holy roller",
+      "shoeshine",
+      "Coca-Cola"
+    ]
+  },
+  {
+    "node1": "one",
+    "node2": "thing",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "he",
+      "got",
+      "together"
+    ],
+    "typical_lexicon": [
+      "holy roller",
+      "shoeshine",
+      "Coca-Cola",
+      "spinal cracker"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "me",
+    "relation_type": "context",
+    "topic_terms": [
+      "he",
+      "got",
+      "together"
+    ],
+    "typical_lexicon": [
+      "one",
+      "thing",
+      "ju-ju eyeball",
+      "holy roller"
+    ]
+  },
+  {
+    "node1": "come",
+    "node2": "together",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "right now",
+      "over me"
+    ],
+    "typical_lexicon": [
+      "he",
+      "got",
+      "you",
+      "me",
+      "one"
+    ]
+  },
+  {
+    "node1": "he",
+    "node2": "bag",
+    "relation_type": "context",
+    "topic_terms": [
+      "production",
+      "walrus gumboot"
+    ],
+    "typical_lexicon": [
+      "Ono sideboard",
+      "spinal cracker",
+      "early warnin'",
+      "muddy water"
+    ]
+  },
+  {
+    "node1": "he",
+    "node2": "got",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "feet down below",
+      "his knee"
+    ],
+    "typical_lexicon": [
+      "ju-ju eyeball",
+      "holy roller",
+      "shoeshine",
+      "Coca-Cola"
+    ]
+  },
+  {
+    "node1": "one",
+    "node2": "and",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "three"
+    ],
+    "typical_lexicon": [
+      "he's so hard to see",
+      "good-looking",
+      "early warnin'",
+      "muddy water"
+    ]
+  },
+  {
+    "node1": "right",
+    "node2": "now",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "over me"
+    ],
+    "typical_lexicon": [
+      "come together",
+      "he got",
+      "you know me",
+      "I know you"
+    ]
+  },
+  {
+    "node1": "Mother Mary",
+    "node2": "trouble",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "wisdom",
+      "darkness",
+      "hour"
+    ],
+    "typical_lexicon": [
+      "speaking",
+      "words",
+      "let",
+      "be"
+    ]
+  },
+  {
+    "node1": "Mother Mary",
+    "node2": "darkness",
+    "relation_type": "context",
+    "topic_terms": [
+      "trouble",
+      "hour",
+      "wisdom"
+    ],
+    "typical_lexicon": [
+      "standing",
+      "right",
+      "front",
+      "me"
+    ]
+  },
+  {
+    "node1": "let it be",
+    "node2": "wisdom",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "words",
+      "speaking",
+      "trouble"
+    ],
+    "typical_lexicon": [
+      "whisper",
+      "mother",
+      "mary"
+    ]
+  },
+  {
+    "node1": "broken-hearted people",
+    "node2": "living in the world agree",
+    "relation_type": "context",
+    "topic_terms": [
+      "answer",
+      "chance",
+      "see"
+    ],
+    "typical_lexicon": [
+      "there",
+      "will",
+      "be",
+      "an"
+    ]
+  },
+  {
+    "node1": "though they may be parted",
+    "node2": "still a chance that they will see",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "answer",
+      "chance",
+      "see"
+    ],
+    "typical_lexicon": [
+      "there",
+      "will",
+      "be",
+      "an"
+    ]
+  },
+  {
+    "node1": "night is cloudy",
+    "node2": "still a light that shines on me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "shines",
+      "tomorrow",
+      "music"
+    ],
+    "typical_lexicon": [
+      "until",
+      "sound",
+      "wake"
+    ]
+  },
+  {
+    "node1": "mother mary comes to me",
+    "node2": "speaking words of wisdom",
+    "relation_type": "context",
+    "topic_terms": [
+      "trouble",
+      "darkness",
+      "hour"
+    ],
+    "typical_lexicon": [
+      "let",
+      "be"
+    ]
+  }
+]

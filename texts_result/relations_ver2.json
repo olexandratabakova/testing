@@ -1,0 +1,2361 @@
+[
+  {
+    "node1": "love",
+    "node2": "me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "affection"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "commitment",
+    "typical_lexicon": [
+      "true",
+      "always",
+      "please",
+      "you",
+      "do",
+      "love"
+    ]
+  },
+  {
+    "node1": "someone",
+    "node2": "to love",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "longing",
+      "emptiness"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "search for connection",
+    "typical_lexicon": [
+      "new",
+      "you",
+      "somebody",
+      "like"
+    ]
+  },
+  {
+    "node1": "someone",
+    "node2": "like you",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "familiarity",
+      "comparability"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "idealization",
+    "typical_lexicon": [
+      "love",
+      "me",
+      "do",
+      "please",
+      "always"
+    ]
+  },
+  {
+    "node1": "whoa",
+    "node2": "love me do",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "enthusiasm",
+      "urgency"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "intensity",
+    "typical_lexicon": [
+      "you",
+      "true",
+      "always",
+      "please"
+    ]
+  },
+  {
+    "node1": "true",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "commitment",
+      "sincerity"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "authenticity",
+    "typical_lexicon": [
+      "me",
+      "do",
+      "please",
+      "always",
+      "you"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "do",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "romance",
+      "action"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "initiative",
+    "typical_lexicon": [
+      "me",
+      "you",
+      "true",
+      "always",
+      "please"
+    ]
+  },
+  {
+    "node1": "me",
+    "node2": "do",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "personal",
+      "action"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "self-expression",
+    "typical_lexicon": [
+      "love",
+      "you",
+      "true",
+      "always"
+    ]
+  },
+  {
+    "node1": "please",
+    "node2": "do",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "politeness",
+      "request"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "courtesy",
+    "typical_lexicon": [
+      "love",
+      "me",
+      "you",
+      "true"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "do",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "recipient",
+      "action"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "consideration",
+    "typical_lexicon": [
+      "love",
+      "me",
+      "please",
+      "true"
+    ]
+  },
+  {
+    "node1": "always",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "commitment",
+      "constancy"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "reliability",
+    "typical_lexicon": [
+      "me",
+      "do",
+      "please"
+    ]
+  },
+  {
+    "node1": "always",
+    "node2": "true",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "loyalty",
+      "sincerity"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "faithfulness",
+    "typical_lexicon": [
+      "love",
+      "me"
+    ]
+  },
+  {
+    "node1": "someone to love",
+    "node2": "somebody new",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "search",
+      "discovery"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "novelty",
+    "typical_lexicon": [
+      "love",
+      "me",
+      "do",
+      "please"
+    ]
+  },
+  {
+    "node1": "someone to love",
+    "node2": "you",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "familiarity",
+      "recognition"
+    ],
+    "dominant_emotion": "affection",
+    "symbolic_layer": "acceptance",
+    "typical_lexicon": [
+      "new",
+      "somebody",
+      "like"
+    ]
+  },
+  {
+    "node1": "longing",
+    "node2": "emptiness",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sadness",
+      "yearning"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "craving",
+    "typical_lexicon": [
+      "someone",
+      "to love"
+    ]
+  },
+  {
+    "node1": "longing",
+    "node2": "connection",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "search",
+      "desire"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "unity",
+    "typical_lexicon": [
+      "someone",
+      "to love",
+      "somebody"
+    ]
+  },
+  {
+    "node1": "emptiness",
+    "node2": "craving",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sadness",
+      "hunger"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "void",
+    "typical_lexicon": [
+      "longing",
+      "someone",
+      "to love"
+    ]
+  },
+  {
+    "node1": "craving",
+    "node2": "unity",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "desire",
+      "oneness"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "wholeness",
+    "typical_lexicon": [
+      "emptiness",
+      "longing"
+    ]
+  },
+  {
+    "node1": "please",
+    "node2": "you",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "pleasure",
+      "relationship"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "reciprocity in relationships",
+    "typical_lexicon": [
+      "me",
+      "girl",
+      "night",
+      "words",
+      "try"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "way",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "guidance",
+      "direction"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "perceived lack of emotional support",
+    "typical_lexicon": [
+      "show",
+      "say",
+      "always",
+      "have to",
+      "way"
+    ]
+  },
+  {
+    "node1": "heart",
+    "node2": "rain",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "sadness",
+      "pain"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "unrequited love, emotional pain",
+    "typical_lexicon": [
+      "my",
+      "always",
+      "try",
+      "girl",
+      "pleasing"
+    ]
+  },
+  {
+    "node1": "please",
+    "node2": "me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "satisfaction",
+      "desire"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "reciprocity in relationships, desire for mutual satisfaction",
+    "typical_lexicon": [
+      "you",
+      "me",
+      "girl",
+      "night",
+      "words"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "want",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "longing",
+      "affection"
+    ],
+    "dominant_emotion": "sincerity",
+    "symbolic_layer": "selfless devotion",
+    "typical_lexicon": [
+      "me",
+      "anything",
+      "call",
+      "send",
+      "along"
+    ]
+  },
+  {
+    "node1": "arms",
+    "node2": "hold",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "love",
+      "desire"
+    ],
+    "dominant_emotion": "tenderness",
+    "symbolic_layer": "physical affection",
+    "typical_lexicon": [
+      "long",
+      "kiss",
+      "satisfied"
+    ]
+  },
+  {
+    "node1": "lips",
+    "node2": "kiss",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "love",
+      "desire"
+    ],
+    "dominant_emotion": "romance",
+    "symbolic_layer": "physical expression of love",
+    "typical_lexicon": [
+      "long",
+      "arms"
+    ]
+  },
+  {
+    "node1": "call",
+    "node2": "me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "help",
+      "assistance"
+    ],
+    "dominant_emotion": "trust",
+    "symbolic_layer": "mutual support",
+    "typical_lexicon": [
+      "anything",
+      "send",
+      "along"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "affection",
+      "attachment"
+    ],
+    "dominant_emotion": "warmth",
+    "symbolic_layer": "emotional bond",
+    "typical_lexicon": [
+      "from",
+      "you"
+    ]
+  },
+  {
+    "node1": "me",
+    "node2": "to",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "devotion"
+    ],
+    "dominant_emotion": "sincerity",
+    "symbolic_layer": "reciprocity in relationships",
+    "typical_lexicon": [
+      "you"
+    ]
+  },
+  {
+    "node1": "send",
+    "node2": "along",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "help",
+      "assistance"
+    ],
+    "dominant_emotion": "altruism",
+    "symbolic_layer": "generosity in relationships",
+    "typical_lexicon": [
+      "anything"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "satisfied",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "pleasure"
+    ],
+    "dominant_emotion": "happiness",
+    "symbolic_layer": "fulfillment in relationships",
+    "typical_lexicon": [
+      "kiss",
+      "arms"
+    ]
+  },
+  {
+    "node1": "heart",
+    "node2": "true",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "love",
+      "authenticity"
+    ],
+    "dominant_emotion": "genuine",
+    "symbolic_layer": "emotional honesty",
+    "typical_lexicon": [
+      "long"
+    ]
+  },
+  {
+    "node1": "My Bonnie",
+    "node2": "over the ocean",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "longing",
+      "yearning"
+    ],
+    "dominant_emotion": "sighing melancholy",
+    "symbolic_layer": "lost love, longing",
+    "typical_lexicon": [
+      "lies over",
+      "ocean sea",
+      "Bonnie me"
+    ]
+  },
+  {
+    "node1": "My Bonnie",
+    "node2": "over the sea",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "longing",
+      "yearning"
+    ],
+    "dominant_emotion": "sighing melancholy",
+    "symbolic_layer": "lost love, longing",
+    "typical_lexicon": [
+      "lies over",
+      "ocean sea",
+      "Bonnie me"
+    ]
+  },
+  {
+    "node1": "bring back my Bonnie to me",
+    "node2": "to me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "longing",
+      "yearning"
+    ],
+    "dominant_emotion": "desperation",
+    "symbolic_layer": "return of loved one",
+    "typical_lexicon": [
+      "bring back",
+      "me to"
+    ]
+  },
+  {
+    "node1": "yeah bring back",
+    "node2": "ah bring back",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "urgency",
+      "longing",
+      "desperation"
+    ],
+    "dominant_emotion": "frustration",
+    "symbolic_layer": "emotional intensity, urgency",
+    "typical_lexicon": [
+      "yeah ah"
+    ]
+  },
+  {
+    "node1": "My Bonnie lies over the ocean",
+    "node2": "My Bonnie lies over the sea",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "separation",
+      "distance",
+      "love"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "transcendence of distance in love",
+    "typical_lexicon": [
+      "ocean sea"
+    ]
+  },
+  {
+    "node1": "My Bonnie lies over the ocean",
+    "node2": "Yeah bring back my Bonnie to me",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "longing",
+      "yearning"
+    ],
+    "dominant_emotion": "sighing melancholy",
+    "symbolic_layer": "pining for loved one",
+    "typical_lexicon": [
+      "ocean sea"
+    ]
+  },
+  {
+    "node1": "She",
+    "node2": "you",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection",
+      "longing"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "unity and connection",
+    "typical_lexicon": [
+      "loves",
+      "hurt",
+      "mind",
+      "glad"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "think",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "lost",
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "uncertainty and doubt",
+    "typical_lexicon": [
+      "hurt",
+      "mind",
+      "glad"
+    ]
+  },
+  {
+    "node1": "yesterday",
+    "node2": "saw",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "time and memory",
+    "typical_lexicon": [
+      "her",
+      "you",
+      "lost"
+    ]
+  },
+  {
+    "node1": "It's",
+    "node2": "you",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "unity and connection",
+    "typical_lexicon": [
+      "she's",
+      "thinking",
+      "glad"
+    ]
+  },
+  {
+    "node1": "hurt",
+    "node2": "her",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "sadness",
+    "symbolic_layer": "pain and sorrow",
+    "typical_lexicon": [
+      "you",
+      "lost"
+    ]
+  },
+  {
+    "node1": "knows",
+    "node2": "you're",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "confidence",
+    "symbolic_layer": "understanding and trust",
+    "typical_lexicon": [
+      "not",
+      "hurting"
+    ]
+  },
+  {
+    "node1": "apologize",
+    "node2": "to",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "responsibility",
+    "symbolic_layer": "atonement and forgiveness",
+    "typical_lexicon": [
+      "her"
+    ]
+  },
+  {
+    "node1": "fair",
+    "node2": "think",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "balance",
+    "symbolic_layer": "justice and equality",
+    "typical_lexicon": [
+      "glad"
+    ]
+  },
+  {
+    "node1": "pride",
+    "node2": "hurt",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "pain",
+    "symbolic_layer": "ego and vulnerability",
+    "typical_lexicon": [
+      "you"
+    ]
+  },
+  {
+    "node1": "because",
+    "node2": "she",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "gratitude",
+    "symbolic_layer": "cause and effect",
+    "typical_lexicon": [
+      "loves"
+    ]
+  },
+  {
+    "node1": "bad",
+    "node2": "can't",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "certainty",
+    "symbolic_layer": "good and evil",
+    "typical_lexicon": [
+      "you",
+      "glad"
+    ]
+  },
+  {
+    "node1": "with",
+    "node2": "a",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": " unity and connection",
+    "typical_lexicon": [
+      "love"
+    ]
+  },
+  {
+    "node1": "glad",
+    "node2": "should",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "affection"
+    ],
+    "dominant_emotion": "encouragement",
+    "symbolic_layer": "happiness and well-being",
+    "typical_lexicon": [
+      "you"
+    ]
+  },
+  {
+    "node1": "hand",
+    "node2": "touch",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "desire",
+      "intimacy"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "physical connection, intimacy",
+    "typical_lexicon": [
+      "love",
+      "happiness",
+      "feeling",
+      "inside",
+      "my love"
+    ]
+  },
+  {
+    "node1": "hand",
+    "node2": "man",
+    "relation_type": "contextual",
+    "topic_terms": [
+      "romance",
+      "intimacy",
+      "relationship"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "masculine identity, protection",
+    "typical_lexicon": [
+      "you",
+      "me",
+      "my",
+      "will let me be",
+      "your"
+    ]
+  },
+  {
+    "node1": "something",
+    "node2": "hand",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "love",
+      "desire",
+      "intimacy"
+    ],
+    "dominant_emotion": "surrealism",
+    "symbolic_layer": "unnamable, intangible feeling",
+    "typical_lexicon": [
+      "you",
+      "me",
+      "my love",
+      "happiness",
+      "inside"
+    ]
+  },
+  {
+    "node1": "touch",
+    "node2": "happy",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "love",
+      "desire",
+      "intimacy"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "physical connection, pleasure",
+    "typical_lexicon": [
+      "happiness",
+      "feeling",
+      "inside",
+      "my love"
+    ]
+  },
+  {
+    "node1": "hide",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "emotions",
+      "feelings",
+      "intimacy"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "unexpressed, hidden emotions",
+    "typical_lexicon": [
+      "can't hide",
+      "inside",
+      "my love",
+      "happiness",
+      "feeling"
+    ]
+  },
+  {
+    "node1": "something",
+    "node2": "understand",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "desire",
+      "intimacy"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "unnamable, intangible feeling",
+    "typical_lexicon": [
+      "you",
+      "me",
+      "my love",
+      "happiness",
+      "inside"
+    ]
+  },
+  {
+    "node1": "money",
+    "node2": "love",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "materialism",
+      "emotion",
+      "value"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "the impossibility of buying or possessing love",
+    "typical_lexicon": [
+      "diamond rings",
+      "friend",
+      "alright",
+      "give",
+      "care"
+    ]
+  },
+  {
+    "node1": "diamond rings",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "materialism",
+      "emotion"
+    ],
+    "dominant_emotion": "surrealism",
+    "symbolic_layer": "extrinsic symbols of love and commitment",
+    "typical_lexicon": [
+      "buy",
+      "me",
+      "friend",
+      "money",
+      "care"
+    ]
+  },
+  {
+    "node1": "alright",
+    "node2": "love",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "feeling",
+      "emotion"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "acceptance and approval in love",
+    "typical_lexicon": [
+      "ring",
+      "friend",
+      "give",
+      "care"
+    ]
+  },
+  {
+    "node1": "I'll buy you",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "materialism",
+      "emotion"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "the commodification of love and relationships",
+    "typical_lexicon": [
+      "diamond rings",
+      "friend",
+      "alright"
+    ]
+  },
+  {
+    "node1": "I'll give you",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "materialism",
+      "emotion"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "the gift of love and commitment",
+    "typical_lexicon": [
+      "ring",
+      "friend",
+      "alright"
+    ]
+  },
+  {
+    "node1": "everybody tells me so",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "societal expectation",
+      "emotion"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "the societal pressure to conform in love and relationships",
+    "typical_lexicon": [
+      "buy",
+      "me",
+      "friend",
+      "money"
+    ]
+  },
+  {
+    "node1": "you don't need no diamond rings",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "materialism",
+      "emotion"
+    ],
+    "dominant_emotion": "surrealism",
+    "symbolic_layer": "the rejection of material symbols in love and relationships",
+    "typical_lexicon": [
+      "ring",
+      "friend",
+      "alright"
+    ]
+  },
+  {
+    "node1": "you want the kind of things",
+    "node2": "love",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "materialism",
+      "emotion"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "the desire for a genuine and meaningful connection in love",
+    "typical_lexicon": [
+      "ring",
+      "friend",
+      "alright"
+    ]
+  },
+  {
+    "node1": "money can't buy me love",
+    "node2": "love",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "materialism",
+      "emotion"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "the impossibility of buying or possessing love",
+    "typical_lexicon": [
+      "buy",
+      "me",
+      "friend",
+      "alright"
+    ]
+  },
+  {
+    "node1": "she",
+    "node2": "sweet",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "attraction",
+      "perfection"
+    ],
+    "dominant_emotion": "infatuation",
+    "symbolic_layer": "idealization",
+    "typical_lexicon": [
+      "beautiful",
+      "perfect",
+      "lovely",
+      "attractive",
+      "desirable"
+    ]
+  },
+  {
+    "node1": "she",
+    "node2": "nice",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "appeal",
+      "attractiveness",
+      "perfection"
+    ],
+    "dominant_emotion": "admiration",
+    "symbolic_layer": "appreciation",
+    "typical_lexicon": [
+      "beautiful",
+      "lovely",
+      "perfect",
+      "nice",
+      "attractive"
+    ]
+  },
+  {
+    "node1": "eye",
+    "node2": "direction",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "perception",
+      "attention",
+      "focus"
+    ],
+    "dominant_emotion": "curiosity",
+    "symbolic_layer": "awareness",
+    "typical_lexicon": [
+      "look",
+      "gaze",
+      "see",
+      "spot",
+      "notice"
+    ]
+  },
+  {
+    "node1": "me oh my",
+    "node2": "perfection",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "surprise",
+      "excitement",
+      "awe"
+    ],
+    "dominant_emotion": "amazement",
+    "symbolic_layer": "transcendence",
+    "typical_lexicon": [
+      "perfect",
+      "beautiful",
+      "lovely",
+      "attractive",
+      "desirable"
+    ]
+  },
+  {
+    "node1": "neat",
+    "node2": "sweet",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "attraction",
+      "appeal",
+      "perfection"
+    ],
+    "dominant_emotion": "pleasure",
+    "symbolic_layer": "satisfaction",
+    "typical_lexicon": [
+      "lovely",
+      "nice",
+      "perfect",
+      "attractive",
+      "desirable"
+    ]
+  },
+  {
+    "node1": "confidentially",
+    "node2": "sweet",
+    "relation_type": "contextual",
+    "topic_terms": [
+      "secret",
+      "private",
+      "exclusive"
+    ],
+    "dominant_emotion": "intimacy",
+    "symbolic_layer": "trust",
+    "typical_lexicon": [
+      "secret",
+      "private",
+      "exclusive",
+      "personal",
+      "intimate"
+    ]
+  },
+  {
+    "node1": "confidentially",
+    "node2": "nice",
+    "relation_type": "contextual",
+    "topic_terms": [
+      "secret",
+      "private",
+      "exclusive"
+    ],
+    "dominant_emotion": "intimacy",
+    "symbolic_layer": "trust",
+    "typical_lexicon": [
+      "secret",
+      "private",
+      "exclusive",
+      "personal",
+      "intimate"
+    ]
+  },
+  {
+    "node1": "hard day's night",
+    "node2": "working like a dog",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "work",
+      "exhaustion",
+      "tiredness"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "drudgery, monotony",
+    "typical_lexicon": [
+      "day",
+      "night",
+      "sleeping",
+      "log",
+      "relief"
+    ]
+  },
+  {
+    "node1": "home",
+    "node2": "you holding me tight",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "love",
+      "comfort",
+      "security"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "protection, affection",
+    "typical_lexicon": [
+      "right",
+      "alright",
+      "OK",
+      "feel",
+      "good"
+    ]
+  },
+  {
+    "node1": "money",
+    "node2": "buy you things",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "material possessions",
+      "status",
+      "provision"
+    ],
+    "dominant_emotion": "pragmatism",
+    "symbolic_layer": "acquisition, materialism",
+    "typical_lexicon": [
+      "get",
+      "buy",
+      "thing",
+      "stuff",
+      "own"
+    ]
+  },
+  {
+    "node1": "you say you're going to give me everything",
+    "node2": "alright",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "commitment",
+      "devotion"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "surrender, sacrifice",
+    "typical_lexicon": [
+      "give",
+      "everything",
+      "all",
+      "my heart"
+    ]
+  },
+  {
+    "node1": "when I get you alone",
+    "node2": "feel OK",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "intimacy",
+      "connection"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "unity, oneness",
+    "typical_lexicon": [
+      "alone",
+      "together",
+      "us",
+      "we"
+    ]
+  },
+  {
+    "node1": "everything seems to be right",
+    "node2": "feeling you holding me tight",
+    "relation_type": "contextual",
+    "topic_terms": [
+      "harmony",
+      "balance"
+    ],
+    "dominant_emotion": "serenity",
+    "symbolic_layer": "stability, equilibrium",
+    "typical_lexicon": [
+      "right",
+      "alright",
+      "OK"
+    ]
+  },
+  {
+    "node1": "love",
+    "node2": "feel fine",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "infatuation",
+      "relationship",
+      "emotion"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "romantic love as blissful state",
+    "typical_lexicon": [
+      "happy",
+      "glad",
+      "baby",
+      "mine",
+      "telling"
+    ]
+  },
+  {
+    "node1": "baby",
+    "node2": "mine",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "parental love",
+      "possession"
+    ],
+    "dominant_emotion": "affection",
+    "symbolic_layer": "child as symbol of love and care",
+    "typical_lexicon": [
+      "little girl",
+      "glad",
+      "telling",
+      "world"
+    ]
+  },
+  {
+    "node1": "buy",
+    "node2": "diamond rings",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "gift-giving",
+      "romantic gesture"
+    ],
+    "dominant_emotion": "admiration",
+    "symbolic_layer": "material symbols of love and wealth",
+    "typical_lexicon": [
+      "things",
+      "world",
+      "glad",
+      "telling"
+    ]
+  },
+  {
+    "node1": "she's in love with me",
+    "node2": "feel fine, mmm",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "mutual love",
+      "reciprocity"
+    ],
+    "dominant_emotion": "surrealism",
+    "symbolic_layer": "love as a dream-like state",
+    "typical_lexicon": [
+      "happy",
+      "glad",
+      "telling",
+      "world"
+    ]
+  },
+  {
+    "node1": "world",
+    "node2": "all the time",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "sharing",
+      "announcement"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "public declaration of love",
+    "typical_lexicon": [
+      "glad",
+      "telling",
+      "baby",
+      "mine"
+    ]
+  },
+  {
+    "node1": "ticket",
+    "node2": "ride",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "departure",
+      "freedom",
+      "love"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "transcendence",
+    "typical_lexicon": [
+      "girl",
+      "me",
+      "around",
+      "living",
+      "down"
+    ]
+  },
+  {
+    "node1": "ticket to ride",
+    "node2": "she don't care",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "indifference",
+      "detachment"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "negation of love",
+    "typical_lexicon": [
+      "think twice",
+      "do right by me",
+      "saying goodbye"
+    ]
+  },
+  {
+    "node1": "girl that's driving me mad",
+    "node2": "going away",
+    "relation_type": "contextual",
+    "topic_terms": [
+      "departure",
+      "love"
+    ],
+    "dominant_emotion": "sadness",
+    "symbolic_layer": "loss of love",
+    "typical_lexicon": [
+      "think I'm gonna be sad",
+      "is bringing her down"
+    ]
+  },
+  {
+    "node1": "living with me",
+    "node2": "bringing her down",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "love",
+      "freedom"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "burden of love",
+    "typical_lexicon": [
+      "never be free",
+      "when I was around"
+    ]
+  },
+  {
+    "node1": "think twice",
+    "node2": "do right by me",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "love",
+      "responsibility"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "moral obligation of love",
+    "typical_lexicon": [
+      "saying goodbye",
+      "my baby don't care"
+    ]
+  },
+  {
+    "node1": "baby don't care",
+    "node2": "care",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "indifference",
+      "detachment"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "negation of love",
+    "typical_lexicon": [
+      "think twice",
+      "do right by me",
+      "saying goodbye"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "somebody",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "help",
+      "needing"
+    ],
+    "dominant_emotion": "desperation",
+    "symbolic_layer": "recognition of dependence on others",
+    "typical_lexicon": [
+      "help",
+      "someone",
+      "need",
+      "dependence",
+      "assistance"
+    ]
+  },
+  {
+    "node1": "you",
+    "node2": "anybody",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "difference"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "distinction between specific and general help",
+    "typical_lexicon": [
+      "specific",
+      "general",
+      "difference",
+      "unique"
+    ]
+  },
+  {
+    "node1": "younger",
+    "node2": "today",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "passage of time"
+    ],
+    "dominant_emotion": "nostalgia",
+    "symbolic_layer": "reflection on past self and growth",
+    "typical_lexicon": [
+      "past",
+      "growth",
+      "change",
+      "time",
+      "years"
+    ]
+  },
+  {
+    "node1": "help",
+    "node2": "door",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "opportunity"
+    ],
+    "dominant_emotion": "hope",
+    "symbolic_layer": "unlocking potential and possibilities",
+    "typical_lexicon": [
+      "open",
+      "close",
+      "possibility",
+      "future"
+    ]
+  },
+  {
+    "node1": "down",
+    "node2": "ground",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "crisis"
+    ],
+    "dominant_emotion": "desperation",
+    "symbolic_layer": "loss of balance and control",
+    "typical_lexicon": [
+      "crisis",
+      "balance",
+      "control",
+      "instability"
+    ]
+  },
+  {
+    "node1": "insecure",
+    "node2": "suddenly",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "emotional state"
+    ],
+    "dominant_emotion": "anxiety",
+    "symbolic_layer": "acknowledgment of vulnerability and uncertainty",
+    "typical_lexicon": [
+      "vulnerability",
+      "uncertainty",
+      "fear",
+      "anxiety"
+    ]
+  },
+  {
+    "node1": "life",
+    "node2": "changed",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "transformation"
+    ],
+    "dominant_emotion": "acceptance",
+    "symbolic_layer": "recognition of personal growth and change",
+    "typical_lexicon": [
+      "change",
+      "growth",
+      "evolution"
+    ]
+  },
+  {
+    "node1": "doors",
+    "node2": "open",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "opportunity"
+    ],
+    "dominant_emotion": "hope",
+    "symbolic_layer": "unlocking potential and possibilities",
+    "typical_lexicon": [
+      "open",
+      "close",
+      "possibility",
+      "future"
+    ]
+  },
+  {
+    "node1": "easy way out",
+    "node2": "taking the easy way",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "reason",
+      "out",
+      "way",
+      "she",
+      "him"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "indulgence",
+    "typical_lexicon": [
+      "reason",
+      "easy",
+      "way",
+      "out",
+      "she"
+    ]
+  },
+  {
+    "node1": "one way ticket",
+    "node2": "day tripper",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "trip",
+      "way",
+      "ticket",
+      "driver",
+      "him"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "transience",
+    "typical_lexicon": [
+      "one",
+      "day",
+      "way",
+      "ticket",
+      "trips"
+    ]
+  },
+  {
+    "node1": "half the way there",
+    "node2": "teaser",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "there",
+      "half",
+      "teaser",
+      "him",
+      "she"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "unfulfillment",
+    "typical_lexicon": [
+      "teaser",
+      "way",
+      "out",
+      "easy",
+      "one"
+    ]
+  },
+  {
+    "node1": "Sunday driver",
+    "node2": "day tripper",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "driver",
+      "him",
+      "she",
+      "trip",
+      "week"
+    ],
+    "dominant_emotion": "sadness",
+    "symbolic_layer": "emptiness",
+    "typical_lexicon": [
+      "Sunday",
+      "day",
+      "driver",
+      "him",
+      "she"
+    ]
+  },
+  {
+    "node1": "found out",
+    "node2": "It took me so long to find out",
+    "relation_type": "contextual",
+    "topic_terms": [
+      "out",
+      "time",
+      "find",
+      "me",
+      "long"
+    ],
+    "dominant_emotion": "realization",
+    "symbolic_layer": "discovery",
+    "typical_lexicon": [
+      "found",
+      "out",
+      "so",
+      "long",
+      "it"
+    ]
+  },
+  {
+    "node1": "see",
+    "node2": "way",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "love",
+      "relationship",
+      "understanding",
+      "communication",
+      "perspective"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "seeking connection, mutual understanding",
+    "typical_lexicon": [
+      "time",
+      "right",
+      "wrong",
+      "crime",
+      "fuss",
+      "fight"
+    ]
+  },
+  {
+    "node1": "work it out",
+    "node2": "straight",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "communication",
+      "understanding",
+      "relationship",
+      "love",
+      "connection"
+    ],
+    "dominant_emotion": "optimism",
+    "symbolic_layer": "resolving conflicts, achieving harmony",
+    "typical_lexicon": [
+      "time",
+      "right",
+      "wrong",
+      "crime",
+      "fuss",
+      "fight"
+    ]
+  },
+  {
+    "node1": "life is very short",
+    "node2": "no time for fussing and fighting",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "transience",
+      "impermanence",
+      "relationship",
+      "love",
+      "time"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "acknowledging the fleeting nature of relationships and life",
+    "typical_lexicon": [
+      "crime",
+      "fuss",
+      "fight",
+      "work it out",
+      "straight"
+    ]
+  },
+  {
+    "node1": "crime",
+    "node2": "fussing and fighting",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "relationship",
+      "love",
+      "conflict",
+      "communication",
+      "understanding"
+    ],
+    "dominant_emotion": "disapproval",
+    "symbolic_layer": "viewing conflict as a crime against relationship or love",
+    "typical_lexicon": [
+      "time",
+      "right",
+      "wrong",
+      "work it out",
+      "straight"
+    ]
+  },
+  {
+    "node1": "only time will tell",
+    "node2": "if I am right or wrong",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "uncertainty",
+      "doubt",
+      "relationship",
+      "love",
+      "time"
+    ],
+    "dominant_emotion": "skepticism",
+    "symbolic_layer": "acknowledging the uncertainty of relationships and love",
+    "typical_lexicon": [
+      "crime",
+      "fuss",
+      "fight",
+      "work it out",
+      "straight"
+    ]
+  },
+  {
+    "node1": "fall apart",
+    "node2": "before too long",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "relationship",
+      "love",
+      "conflict",
+      "communication",
+      "understanding"
+    ],
+    "dominant_emotion": "fear",
+    "symbolic_layer": "viewing conflict as a potential for relationship breakdown",
+    "typical_lexicon": [
+      "crime",
+      "fuss",
+      "fight",
+      "work it out",
+      "straight"
+    ]
+  },
+  {
+    "node1": "book",
+    "node2": "novel",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "writing",
+      "career",
+      "literary"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "creative aspiration",
+    "typical_lexicon": [
+      "write",
+      "author",
+      "story",
+      "publication",
+      "success"
+    ]
+  },
+  {
+    "node1": "Lear",
+    "node2": "book",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "writing",
+      "novel",
+      "inspiration"
+    ],
+    "dominant_emotion": "admiration",
+    "symbolic_layer": "literary icon",
+    "typical_lexicon": [
+      "influence",
+      "legacy",
+      "artistic",
+      "visionary"
+    ]
+  },
+  {
+    "node1": "job",
+    "node2": "paperback writer",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "career",
+      "writing",
+      "livelihood"
+    ],
+    "dominant_emotion": "practicality",
+    "symbolic_layer": "secular ambition",
+    "typical_lexicon": [
+      "work",
+      "salary",
+      "security",
+      "stability"
+    ]
+  },
+  {
+    "node1": "dirty story",
+    "node2": "dirty man",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "morality",
+      "social commentary"
+    ],
+    "dominant_emotion": "sarcasm",
+    "symbolic_layer": "critique of societal norms",
+    "typical_lexicon": [
+      "hypocrisy",
+      "double standards",
+      "moral ambiguity"
+    ]
+  },
+  {
+    "node1": "clinging wife",
+    "node2": "dirty man",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "marriage",
+      "relationships"
+    ],
+    "dominant_emotion": "exasperation",
+    "symbolic_layer": "conflict between personal and professional life",
+    "typical_lexicon": [
+      "love",
+      "commitment",
+      "infidelity"
+    ]
+  },
+  {
+    "node1": "Daily Mail",
+    "node2": "job",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "career",
+      "journalism"
+    ],
+    "dominant_emotion": "indifference",
+    "symbolic_layer": "everyday work",
+    "typical_lexicon": [
+      "workplace",
+      "bureaucracy",
+      "red tape"
+    ]
+  },
+  {
+    "node1": "paperback writer",
+    "node2": "job",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "career",
+      "writing"
+    ],
+    "dominant_emotion": "aspiration",
+    "symbolic_layer": "secular ambition",
+    "typical_lexicon": [
+      "success",
+      "fame",
+      "fortune"
+    ]
+  },
+  {
+    "node1": "rights",
+    "node2": "money",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "finance",
+      "commerce"
+    ],
+    "dominant_emotion": "practicality",
+    "symbolic_layer": "material reward",
+    "typical_lexicon": [
+      "profit",
+      "income",
+      "wealth"
+    ]
+  },
+  {
+    "node1": "book",
+    "node2": "rights",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "literary",
+      "commerce"
+    ],
+    "dominant_emotion": "ambition",
+    "symbolic_layer": "material reward for creative work",
+    "typical_lexicon": [
+      "publication",
+      "distribution",
+      "market"
+    ]
+  },
+  {
+    "node1": "submarine",
+    "node2": "sea",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "underwater world",
+      "fantasy"
+    ],
+    "dominant_emotion": "surrealism",
+    "symbolic_layer": "escape from reality",
+    "typical_lexicon": [
+      "yellow",
+      "life of ease",
+      "under the waves",
+      "sun",
+      "green"
+    ]
+  },
+  {
+    "node1": "submarine",
+    "node2": "life",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "comfort",
+      "security"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "safety and protection",
+    "typical_lexicon": [
+      "yellow",
+      "everyone of us",
+      "has all we need",
+      "sky of blue"
+    ]
+  },
+  {
+    "node1": "sun",
+    "node2": "green",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "harmony",
+      "balance"
+    ],
+    "dominant_emotion": "peacefulness",
+    "symbolic_layer": "nature and balance",
+    "typical_lexicon": [
+      "sea of green",
+      "submarine",
+      "life of ease"
+    ]
+  },
+  {
+    "node1": "boat",
+    "node2": "cable",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "movement",
+      "action"
+    ],
+    "dominant_emotion": "adventure",
+    "symbolic_layer": "freedom and exploration",
+    "typical_lexicon": [
+      "full speed ahead",
+      "Mr. Boatswain",
+      "drop the cable"
+    ]
+  },
+  {
+    "node1": "friends",
+    "node2": "next door",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "community",
+      "proximity"
+    ],
+    "dominant_emotion": "togetherness",
+    "symbolic_layer": "social connection and belonging",
+    "typical_lexicon": [
+      "all aboard",
+      "band begins to play",
+      "submarine"
+    ]
+  },
+  {
+    "node1": "yellow",
+    "node2": "submarine",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "optimism",
+      "happiness"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "hope and positivity",
+    "typical_lexicon": [
+      "life of ease",
+      "everyone of us",
+      "has all we need"
+    ]
+  },
+  {
+    "node1": "band",
+    "node2": "play",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "music",
+      "entertainment"
+    ],
+    "dominant_emotion": "joy",
+    "symbolic_layer": "celebration and festivity",
+    "typical_lexicon": [
+      "all aboard",
+      "friends are all aboard",
+      "next door"
+    ]
+  },
+  {
+    "node1": "life of ease",
+    "node2": "has all we need",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "abundance",
+      "contentment"
+    ],
+    "dominant_emotion": "satisfaction",
+    "symbolic_layer": "prosperity and well-being",
+    "typical_lexicon": [
+      "yellow submarine",
+      "sky of blue",
+      "sea of green"
+    ]
+  },
+  {
+    "node1": "lonely",
+    "node2": "people",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "loneliness",
+      "isolation",
+      "emptiness"
+    ],
+    "dominant_emotion": "melancholy",
+    "symbolic_layer": "alienation, disconnection",
+    "typical_lexicon": [
+      "alone",
+      "solitude",
+      "empty",
+      "desolate",
+      "forgotten"
+    ]
+  },
+  {
+    "node1": "Eleanor Rigby",
+    "node2": "church",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "death",
+      "loss",
+      "transience"
+    ],
+    "dominant_emotion": "sorrow",
+    "symbolic_layer": "transition, separation",
+    "typical_lexicon": [
+      "wedding",
+      "funeral",
+      "memory",
+      "ghosts",
+      "forgotten"
+    ]
+  },
+  {
+    "node1": "lives in a dream",
+    "node2": "jar by the door",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "escape",
+      "fantasy",
+      "disconnection"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "imaginary refuge, escapism",
+    "typical_lexicon": [
+      "daydreams",
+      "escapades",
+      "fleeting joys",
+      "short-lived escapes",
+      "transitory pleasures"
+    ]
+  },
+  {
+    "node1": "Father McKenzie",
+    "node2": "writing sermon",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "futility",
+      "ineffectiveness",
+      "alienation"
+    ],
+    "dominant_emotion": "resignation",
+    "symbolic_layer": "helplessness, disconnection",
+    "typical_lexicon": [
+      "futility",
+      "pointless tasks",
+      "unheard words",
+      "ignored pleas",
+      "inaccessible"
+    ]
+  },
+  {
+    "node1": "nobody comes near",
+    "node2": "lonely people",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "social isolation",
+      "disconnection"
+    ],
+    "dominant_emotion": "sadness",
+    "symbolic_layer": "human disconnection, loneliness",
+    "typical_lexicon": [
+      "isolation",
+      "desolation",
+      "emptiness",
+      "loneliness",
+      "estrangement"
+    ]
+  },
+  {
+    "node1": "dying in the church",
+    "node2": "buried along with her name",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "loss",
+      "transience",
+      "erasure"
+    ],
+    "dominant_emotion": "sorrow",
+    "symbolic_layer": "memorializing, forgetting",
+    "typical_lexicon": [
+      "death",
+      "memory",
+      "oblivion",
+      "loss of identity",
+      "forgetfulness"
+    ]
+  },
+  {
+    "node1": "Father McKenzie wipes dirt from hands",
+    "node2": "no one was saved",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "futility",
+      "helplessness"
+    ],
+    "dominant_emotion": "resignation",
+    "symbolic_layer": "inaction, disconnection",
+    "typical_lexicon": [
+      "ineffectiveness",
+      "pointless efforts",
+      "failed attempts",
+      "unheard pleas",
+      "unseen suffering"
+    ]
+  },
+  {
+    "node1": "Penny Lane",
+    "node2": "barber",
+    "relation_type": "contextual",
+    "topic_terms": [
+      "suburban",
+      "community",
+      "ordinary"
+    ],
+    "dominant_emotion": "neutrality",
+    "symbolic_layer": "everyday life, ordinariness",
+    "typical_lexicon": [
+      "barber",
+      "photographs",
+      "children",
+      "rain",
+      "fireman"
+    ]
+  },
+  {
+    "node1": "Penny Lane",
+    "node2": "banker",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "suburban",
+      "everyday"
+    ],
+    "dominant_emotion": "absurdity",
+    "symbolic_layer": "contrast, social status",
+    "typical_lexicon": [
+      "motorcar",
+      "mac",
+      "rain"
+    ]
+  },
+  {
+    "node1": "Penny Lane",
+    "node2": "fireman",
+    "relation_type": "contextual",
+    "topic_terms": [
+      "everyday",
+      "workplace"
+    ],
+    "dominant_emotion": "practicality",
+    "symbolic_layer": "productivity, cleanliness",
+    "typical_lexicon": [
+      "hourglass",
+      "portrait",
+      "queen"
+    ]
+  },
+  {
+    "node1": "Penny Lane",
+    "node2": "poppy seller",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "summer",
+      "play"
+    ],
+    "dominant_emotion": "whimsy",
+    "symbolic_layer": "transience, impermanence",
+    "typical_lexicon": [
+      "poppies",
+      "tray"
+    ]
+  },
+  {
+    "node1": "ears and eyes",
+    "node2": "Penny Lane",
+    "relation_type": "emotional_association",
+    "topic_terms": [
+      "memory",
+      "sensory"
+    ],
+    "dominant_emotion": "longing",
+    "symbolic_layer": "connection, intimacy",
+    "typical_lexicon": [
+      "blue skies"
+    ]
+  },
+  {
+    "node1": "barber's photographs",
+    "node2": "people who come and go",
+    "relation_type": "co-occurrence",
+    "topic_terms": [
+      "community",
+      "transience"
+    ],
+    "dominant_emotion": "bittersweetness",
+    "symbolic_layer": "connection, impermanence",
+    "typical_lexicon": [
+      "head",
+      "pleasure"
+    ]
+  },
+  {
+    "node1": "banker's motorcar",
+    "node2": "children's laughter",
+    "relation_type": "metaphoric",
+    "topic_terms": [
+      "social status",
+      "injustice"
+    ],
+    "dominant_emotion": "mirthlessness",
+    "symbolic_layer": "unfairness, mockery",
+    "typical_lexicon": [
+      "behind his back"
+    ]
+  }
+]
